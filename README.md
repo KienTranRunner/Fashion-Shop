@@ -6,6 +6,17 @@ HomePage:
 ![FireShot Capture 040 - Trang chủ - fShop - localhost](https://github.com/user-attachments/assets/f1396abf-93d6-4f2b-a85b-34fc819872f1)
 
 
+
+SignUp:
+![image](https://github.com/user-attachments/assets/2c914679-4fc7-432c-921c-e5e0efe23f5a)
+
+
+SignIn:
+![image](https://github.com/user-attachments/assets/57978848-5975-4856-b1d1-3ccc89f3dd25)
+
+
+
+
 Product:
 ![FireShot Capture 030 - Danh sách sản phẩm - fShop - localhost](https://github.com/user-attachments/assets/3fbfd1ed-483b-42b3-ab5c-d0e2ac9a4b75)
 

@@ -3,6 +3,7 @@ Class Diagram
 
 
 HomePage:
+![FireShot Capture 040 - Trang chủ - fShop - localhost](https://github.com/user-attachments/assets/f1396abf-93d6-4f2b-a85b-34fc819872f1)
 
 
 Product:

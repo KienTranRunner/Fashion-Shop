@@ -1,0 +1,84 @@
+@{
+    ViewData["Title"] = "Trang quản lý sản phẩm";
+    Layout = "~/Areas/Admin/Views/Shared/AdminLayout.cshtml";
+}
+<link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css" />
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.bundle.min.js"></script>
+<div class="table-container">
+
+
+    <table id="customerTypeTable" class="table table-bordered display ">
+
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Tên khách hàng</th>
+                <th>Email</th>
+                <th>Số điện thoại</th>
+                <th>Địa chỉ</th>
+                <th>Tổng tiền</th>
+
+            </tr>
+        </thead>
+        <tbody>
+        </tbody>
+    </table>
+</div>
+
+
+@section Scripts {
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+    <script>
+       $(document).ready(function () {
+    $.ajax({
+        url: 'http://localhost:5158/Admin/customer/getall', 
+        type: 'GET',
+        success: function (data) {
+            console.log("Dữ liệu API nhận được:", data); 
+
+            let rows = "";
+            data.forEach(item => {
+                rows += `<tr>
+                    <td>${item.userId}</td>
+                    <td>${item.fullName}</td>
+                    <td>${item.email}</td>
+                    <td>${item.phoneNumber}</td>
+                    <td>${item.address}</td>
+                    <td>${item.tongTien.toLocaleString('vi-VN', { style: 'currency', currency: 'VND' })}</td>                </tr>`;
+            });
+
+            $('#customerTypeTable tbody').html(rows); 
+
+            $('#customerTypeTable').DataTable({
+                paging: true,
+                searching: true,
+                ordering: true,
+                info: true,
+                lengthChange: true,
+                pageLength: 10,
+                language: {
+                    lengthMenu: "Hiển thị _MENU_ dòng",
+                    zeroRecords: "Không tìm thấy dữ liệu phù hợp",
+                    info: "Hiển thị _START_ đến _END_ của _TOTAL_ dòng",
+                    infoEmpty: "Không có dữ liệu",
+                    search: "Tìm kiếm:",
+                    paginate: {
+                        first: "Đầu",
+                        last: "Cuối",
+                        next: "Sau",
+                        previous: "Trước"
+                    }
+                }
+            });
+        },
+        error: function (err) {
+            console.error('Lỗi khi lấy dữ liệu:', err);
+        }
+    });
+});
+
+    </script>
+}
+

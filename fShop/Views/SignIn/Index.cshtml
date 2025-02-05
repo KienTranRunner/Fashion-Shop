@@ -1,0 +1,177 @@
+@{
+    ViewData["Title"] = "Đăng nhập";
+}
+
+@model fShop.Models.ViewModels.SignInViewModel
+
+
+<div class="login">
+    <div class="login__container">
+        <div class="login__form-wrapper">
+            <div class="login__row">
+                <div class="login__form-container">
+                    <div class="login__form">
+                       
+                        <h6 class="login__subheading">Đăng nhập</h6>
+                        <form method="post" asp-action="SignIn">
+                             @Html.AntiForgeryToken()
+                            <div class="form-group">
+                                <label for="PhoneNumber">Số điện thoại</label>
+                                <input type="text" id="PhoneNumber" class="form-control" asp-for="PhoneNumber" placeholder="Nhập số điện thoại"/>
+                                <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+                            </div>
+                            <div class="form-group">
+                                <label for="Password">Mật khẩu</label>
+                                <input type="password" id="Password" class="form-control" asp-for="Password" placeholder="Nhập mật khẩu"/>
+                                <span asp-validation-for="Password" class="text-danger"></span>
+                            </div>
+                            <button type="submit" class="btn btn-primary">Đăng nhập</button>
+                        </form>
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
+<style>
+    .login {
+        background: url('@Url.Content("~/assets/images/Login.jpg")') no-repeat center center fixed;
+        background-size: cover;
+        height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .login__container {
+        width: 100%;
+        max-width: 400px;
+        background: rgba(255, 255, 255, 0.9);
+        border-radius: 8px;
+        padding: 20px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    }
+
+    .login__logo {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    .login__logo-image {
+        max-width: 100%;
+        height: auto;
+    }
+
+    .login__heading {
+        font-size: 1.5rem;
+        margin-bottom: 10px;
+        text-align: center;
+    }
+
+    .login__subheading {
+        font-size: 1rem;
+        margin-bottom: 20px;
+        text-align: center;
+        color: #6c757d;
+    }
+
+    .login__form-content {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .login__form-group {
+        margin-bottom: 15px;
+    }
+
+    .login__form-input {
+        width: 100%;
+        padding: 10px;
+        border: 1px solid #ced4da;
+        border-radius: 4px;
+        font-size: 1rem;
+    }
+
+    .login__actions {
+        margin-top: 20px;
+        text-align: center;
+    }
+
+    .login__btn {
+        display: inline-block;
+        padding: 10px 20px;
+        background: #007bff;
+        color: #fff;
+        text-decoration: none;
+        border-radius: 4px;
+        font-size: 1rem;
+        font-weight: 500;
+    }
+
+    .login__btn:hover {
+        background: #0056b3;
+    }
+
+    .login__extra {
+        margin-top: 20px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .login__checkbox {
+        font-size: 0.9rem;
+        color: #6c757d;
+    }
+
+    .login__forgot {
+        font-size: 0.9rem;
+        color: #007bff;
+        text-decoration: none;
+    }
+
+    .login__forgot:hover {
+        text-decoration: underline;
+    }
+
+    .login__social {
+        margin-top: 20px;
+        text-align: center;
+    }
+
+    .login__btn-facebook {
+        background: #3b5998;
+        color: #fff;
+        padding: 10px 20px;
+        border: none;
+        border-radius: 4px;
+        font-size: 1rem;
+        cursor: pointer;
+    }
+
+    .login__btn-facebook:hover {
+        background: #2d4373;
+    }
+
+    .login__footer {
+        margin-top: 20px;
+        text-align: center;
+        font-size: 0.9rem;
+        color: #6c757d;
+    }
+
+    .login__link {
+        color: #007bff;
+        text-decoration: none;
+    }
+
+    .login__link:hover {
+        text-decoration: underline;
+    }
+</style>

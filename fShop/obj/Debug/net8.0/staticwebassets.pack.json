@@ -1,0 +1,3717 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/obj/Debug/net8.0/scopedcss/projectbundle/fShop.bundle.scp.css",
+      "PackagePath": "staticwebassets/fShop.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/IMG_3239.JPG",
+      "PackagePath": "staticwebassets/assets/IMG_3239.JPG"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/css/all.css",
+      "PackagePath": "staticwebassets/assets/css/all.css"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/css/animate.css",
+      "PackagePath": "staticwebassets/assets/css/animate.css"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/css/baguetteBox.min.css",
+      "PackagePath": "staticwebassets/assets/css/baguetteBox.min.css"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/css/bootsnav.css",
+      "PackagePath": "staticwebassets/assets/css/bootsnav.css"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/css/bootstrap-select.css",
+      "PackagePath": "staticwebassets/assets/css/bootstrap-select.css"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/assets/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/css/carousel-ticker.css",
+      "PackagePath": "staticwebassets/assets/css/carousel-ticker.css"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/css/code_animate.css",
+      "PackagePath": "staticwebassets/assets/css/code_animate.css"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/css/custom.css",
+      "PackagePath": "staticwebassets/assets/css/custom.css"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/css/jquery-ui.css",
+      "PackagePath": "staticwebassets/assets/css/jquery-ui.css"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/css/owl.carousel.min.css",
+      "PackagePath": "staticwebassets/assets/css/owl.carousel.min.css"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/css/responsive.css",
+      "PackagePath": "staticwebassets/assets/css/responsive.css"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/css/style.css",
+      "PackagePath": "staticwebassets/assets/css/style.css"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/css/superslides.css",
+      "PackagePath": "staticwebassets/assets/css/superslides.css"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/images/Login.jpg",
+      "PackagePath": "staticwebassets/assets/images/Login.jpg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/images/about-img.jpg",
+      "PackagePath": "staticwebassets/assets/images/about-img.jpg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/images/add-img-01.jpg",
+      "PackagePath": "staticwebassets/assets/images/add-img-01.jpg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/images/add-img-02.jpg",
+      "PackagePath": "staticwebassets/assets/images/add-img-02.jpg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/images/all-bg-title.jpg",
+      "PackagePath": "staticwebassets/assets/images/all-bg-title.jpg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/images/apple-touch-icon.png",
+      "PackagePath": "staticwebassets/assets/images/apple-touch-icon.png"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/images/banner-01.jpg",
+      "PackagePath": "staticwebassets/assets/images/banner-01.jpg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/images/banner-02.jpg",
+      "PackagePath": "staticwebassets/assets/images/banner-02.jpg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/images/banner-03.jpg",
+      "PackagePath": "staticwebassets/assets/images/banner-03.jpg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/images/big-img-01.jpg",
+      "PackagePath": "staticwebassets/assets/images/big-img-01.jpg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/images/big-img-02.jpg",
+      "PackagePath": "staticwebassets/assets/images/big-img-02.jpg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/images/big-img-03.jpg",
+      "PackagePath": "staticwebassets/assets/images/big-img-03.jpg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/images/blog-img-01.jpg",
+      "PackagePath": "staticwebassets/assets/images/blog-img-01.jpg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/images/blog-img-02.jpg",
+      "PackagePath": "staticwebassets/assets/images/blog-img-02.jpg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/images/blog-img.jpg",
+      "PackagePath": "staticwebassets/assets/images/blog-img.jpg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/images/categories_img_01.jpg",
+      "PackagePath": "staticwebassets/assets/images/categories_img_01.jpg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/images/categories_img_02.jpg",
+      "PackagePath": "staticwebassets/assets/images/categories_img_02.jpg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/images/categories_img_03.jpg",
+      "PackagePath": "staticwebassets/assets/images/categories_img_03.jpg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/images/contact-bg.jpg",
+      "PackagePath": "staticwebassets/assets/images/contact-bg.jpg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/images/cr1.jpg",
+      "PackagePath": "staticwebassets/assets/images/cr1.jpg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/images/cr2.jpg",
+      "PackagePath": "staticwebassets/assets/images/cr2.jpg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/images/cr3.jpg",
+      "PackagePath": "staticwebassets/assets/images/cr3.jpg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/images/favicon.ico",
+      "PackagePath": "staticwebassets/assets/images/favicon.ico"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/images/gallery-img-01.jpg",
+      "PackagePath": "staticwebassets/assets/images/gallery-img-01.jpg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/images/gallery-img-02.jpg",
+      "PackagePath": "staticwebassets/assets/images/gallery-img-02.jpg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/images/gallery-img-03.jpg",
+      "PackagePath": "staticwebassets/assets/images/gallery-img-03.jpg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/images/gallery-img-04.jpg",
+      "PackagePath": "staticwebassets/assets/images/gallery-img-04.jpg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/images/gallery-img-05.jpg",
+      "PackagePath": "staticwebassets/assets/images/gallery-img-05.jpg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/images/gallery-img-06.jpg",
+      "PackagePath": "staticwebassets/assets/images/gallery-img-06.jpg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/images/gallery-img-07.jpg",
+      "PackagePath": "staticwebassets/assets/images/gallery-img-07.jpg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/images/gallery-img-08.jpg",
+      "PackagePath": "staticwebassets/assets/images/gallery-img-08.jpg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/images/gallery-img-09.jpg",
+      "PackagePath": "staticwebassets/assets/images/gallery-img-09.jpg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/images/gallery-img-10.jpg",
+      "PackagePath": "staticwebassets/assets/images/gallery-img-10.jpg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/images/gallery-img-11.jpg",
+      "PackagePath": "staticwebassets/assets/images/gallery-img-11.jpg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/images/gallery-img-12.jpg",
+      "PackagePath": "staticwebassets/assets/images/gallery-img-12.jpg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/images/home1.jpg",
+      "PackagePath": "staticwebassets/assets/images/home1.jpg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/images/home2.jpg",
+      "PackagePath": "staticwebassets/assets/images/home2.jpg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/images/home2.png",
+      "PackagePath": "staticwebassets/assets/images/home2.png"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/images/home3.jpg",
+      "PackagePath": "staticwebassets/assets/images/home3.jpg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/images/homead1.webp",
+      "PackagePath": "staticwebassets/assets/images/homead1.webp"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/images/homead2.webp",
+      "PackagePath": "staticwebassets/assets/images/homead2.webp"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/images/homead3.webp",
+      "PackagePath": "staticwebassets/assets/images/homead3.webp"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/images/img-1.jpg",
+      "PackagePath": "staticwebassets/assets/images/img-1.jpg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/images/img-2.jpg",
+      "PackagePath": "staticwebassets/assets/images/img-2.jpg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/images/img-3.jpg",
+      "PackagePath": "staticwebassets/assets/images/img-3.jpg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/images/img-pro-01.jpg",
+      "PackagePath": "staticwebassets/assets/images/img-pro-01.jpg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/images/img-pro-02.jpg",
+      "PackagePath": "staticwebassets/assets/images/img-pro-02.jpg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/images/img-pro-03.jpg",
+      "PackagePath": "staticwebassets/assets/images/img-pro-03.jpg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/images/img-pro-04.jpg",
+      "PackagePath": "staticwebassets/assets/images/img-pro-04.jpg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/images/ins-bg.jpg",
+      "PackagePath": "staticwebassets/assets/images/ins-bg.jpg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/images/instagram-img-01.jpg",
+      "PackagePath": "staticwebassets/assets/images/instagram-img-01.jpg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/images/instagram-img-02.jpg",
+      "PackagePath": "staticwebassets/assets/images/instagram-img-02.jpg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/images/instagram-img-03.jpg",
+      "PackagePath": "staticwebassets/assets/images/instagram-img-03.jpg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/images/instagram-img-04.jpg",
+      "PackagePath": "staticwebassets/assets/images/instagram-img-04.jpg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/images/instagram-img-05.jpg",
+      "PackagePath": "staticwebassets/assets/images/instagram-img-05.jpg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/images/instagram-img-06.jpg",
+      "PackagePath": "staticwebassets/assets/images/instagram-img-06.jpg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/images/instagram-img-07.jpg",
+      "PackagePath": "staticwebassets/assets/images/instagram-img-07.jpg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/images/instagram-img-08.jpg",
+      "PackagePath": "staticwebassets/assets/images/instagram-img-08.jpg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/images/instagram-img-09.jpg",
+      "PackagePath": "staticwebassets/assets/images/instagram-img-09.jpg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/images/logo.png",
+      "PackagePath": "staticwebassets/assets/images/logo.png"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/images/payment-icon/1.png",
+      "PackagePath": "staticwebassets/assets/images/payment-icon/1.png"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/images/payment-icon/2.png",
+      "PackagePath": "staticwebassets/assets/images/payment-icon/2.png"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/images/payment-icon/3.png",
+      "PackagePath": "staticwebassets/assets/images/payment-icon/3.png"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/images/payment-icon/4.png",
+      "PackagePath": "staticwebassets/assets/images/payment-icon/4.png"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/images/payment-icon/5.png",
+      "PackagePath": "staticwebassets/assets/images/payment-icon/5.png"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/images/payment-icon/6.png",
+      "PackagePath": "staticwebassets/assets/images/payment-icon/6.png"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/images/payment-icon/7.png",
+      "PackagePath": "staticwebassets/assets/images/payment-icon/7.png"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/images/smp-img-01.jpg",
+      "PackagePath": "staticwebassets/assets/images/smp-img-01.jpg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/images/smp-img-02.jpg",
+      "PackagePath": "staticwebassets/assets/images/smp-img-02.jpg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/images/smp-img-03.jpg",
+      "PackagePath": "staticwebassets/assets/images/smp-img-03.jpg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/js/baguetteBox.min.js",
+      "PackagePath": "staticwebassets/assets/js/baguetteBox.min.js"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/js/bootsnav.js",
+      "PackagePath": "staticwebassets/assets/js/bootsnav.js"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/js/bootstrap-select.js",
+      "PackagePath": "staticwebassets/assets/js/bootstrap-select.js"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/assets/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/js/contact-form-script.js",
+      "PackagePath": "staticwebassets/assets/js/contact-form-script.js"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/js/custom.js",
+      "PackagePath": "staticwebassets/assets/js/custom.js"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/js/form-validator.min.js",
+      "PackagePath": "staticwebassets/assets/js/form-validator.min.js"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/js/images-loded.min.js",
+      "PackagePath": "staticwebassets/assets/js/images-loded.min.js"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/js/inewsticker.js",
+      "PackagePath": "staticwebassets/assets/js/inewsticker.js"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/js/isotope.min.js",
+      "PackagePath": "staticwebassets/assets/js/isotope.min.js"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/js/jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets/assets/js/jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/js/jquery-ui.js",
+      "PackagePath": "staticwebassets/assets/js/jquery-ui.js"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/js/jquery.nicescroll.min.js",
+      "PackagePath": "staticwebassets/assets/js/jquery.nicescroll.min.js"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/js/jquery.superslides.min.js",
+      "PackagePath": "staticwebassets/assets/js/jquery.superslides.min.js"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/js/owl.carousel.min.js",
+      "PackagePath": "staticwebassets/assets/js/owl.carousel.min.js"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/js/popper.min.js",
+      "PackagePath": "staticwebassets/assets/js/popper.min.js"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/php/form-process.php",
+      "PackagePath": "staticwebassets/assets/php/form-process.php"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/webfonts/fa-brands-400.eot",
+      "PackagePath": "staticwebassets/assets/webfonts/fa-brands-400.eot"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/webfonts/fa-brands-400.svg",
+      "PackagePath": "staticwebassets/assets/webfonts/fa-brands-400.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/webfonts/fa-brands-400.ttf",
+      "PackagePath": "staticwebassets/assets/webfonts/fa-brands-400.ttf"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/webfonts/fa-brands-400.woff",
+      "PackagePath": "staticwebassets/assets/webfonts/fa-brands-400.woff"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/webfonts/fa-brands-400.woff2",
+      "PackagePath": "staticwebassets/assets/webfonts/fa-brands-400.woff2"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/webfonts/fa-regular-400.eot",
+      "PackagePath": "staticwebassets/assets/webfonts/fa-regular-400.eot"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/webfonts/fa-regular-400.svg",
+      "PackagePath": "staticwebassets/assets/webfonts/fa-regular-400.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/webfonts/fa-regular-400.ttf",
+      "PackagePath": "staticwebassets/assets/webfonts/fa-regular-400.ttf"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/webfonts/fa-regular-400.woff",
+      "PackagePath": "staticwebassets/assets/webfonts/fa-regular-400.woff"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/webfonts/fa-regular-400.woff2",
+      "PackagePath": "staticwebassets/assets/webfonts/fa-regular-400.woff2"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/webfonts/fa-solid-900.eot",
+      "PackagePath": "staticwebassets/assets/webfonts/fa-solid-900.eot"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/webfonts/fa-solid-900.svg",
+      "PackagePath": "staticwebassets/assets/webfonts/fa-solid-900.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/webfonts/fa-solid-900.ttf",
+      "PackagePath": "staticwebassets/assets/webfonts/fa-solid-900.ttf"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/webfonts/fa-solid-900.woff",
+      "PackagePath": "staticwebassets/assets/webfonts/fa-solid-900.woff"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assets/webfonts/fa-solid-900.woff2",
+      "PackagePath": "staticwebassets/assets/webfonts/fa-solid-900.woff2"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/css/light/common.css",
+      "PackagePath": "staticwebassets/assetss/css/light/common.css"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/css/maps/light/common.css.map",
+      "PackagePath": "staticwebassets/assetss/css/maps/light/common.css.map"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/css/maps/style.css.map",
+      "PackagePath": "staticwebassets/assetss/css/maps/style.css.map"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/css/style.css",
+      "PackagePath": "staticwebassets/assetss/css/style.css"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/fonts/Manrope/Manrope-Bold.eot",
+      "PackagePath": "staticwebassets/assetss/fonts/Manrope/Manrope-Bold.eot"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/fonts/Manrope/Manrope-Bold.ttf",
+      "PackagePath": "staticwebassets/assetss/fonts/Manrope/Manrope-Bold.ttf"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/fonts/Manrope/Manrope-Bold.woff",
+      "PackagePath": "staticwebassets/assetss/fonts/Manrope/Manrope-Bold.woff"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/fonts/Manrope/Manrope-Bold.woff2",
+      "PackagePath": "staticwebassets/assetss/fonts/Manrope/Manrope-Bold.woff2"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/fonts/Manrope/Manrope-ExtraBold.eot",
+      "PackagePath": "staticwebassets/assetss/fonts/Manrope/Manrope-ExtraBold.eot"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/fonts/Manrope/Manrope-ExtraBold.ttf",
+      "PackagePath": "staticwebassets/assetss/fonts/Manrope/Manrope-ExtraBold.ttf"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/fonts/Manrope/Manrope-ExtraBold.woff",
+      "PackagePath": "staticwebassets/assetss/fonts/Manrope/Manrope-ExtraBold.woff"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/fonts/Manrope/Manrope-ExtraBold.woff2",
+      "PackagePath": "staticwebassets/assetss/fonts/Manrope/Manrope-ExtraBold.woff2"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/fonts/Manrope/Manrope-ExtraLight.eot",
+      "PackagePath": "staticwebassets/assetss/fonts/Manrope/Manrope-ExtraLight.eot"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/fonts/Manrope/Manrope-ExtraLight.ttf",
+      "PackagePath": "staticwebassets/assetss/fonts/Manrope/Manrope-ExtraLight.ttf"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/fonts/Manrope/Manrope-ExtraLight.woff",
+      "PackagePath": "staticwebassets/assetss/fonts/Manrope/Manrope-ExtraLight.woff"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/fonts/Manrope/Manrope-ExtraLight.woff2",
+      "PackagePath": "staticwebassets/assetss/fonts/Manrope/Manrope-ExtraLight.woff2"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/fonts/Manrope/Manrope-Light.eot",
+      "PackagePath": "staticwebassets/assetss/fonts/Manrope/Manrope-Light.eot"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/fonts/Manrope/Manrope-Light.ttf",
+      "PackagePath": "staticwebassets/assetss/fonts/Manrope/Manrope-Light.ttf"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/fonts/Manrope/Manrope-Light.woff",
+      "PackagePath": "staticwebassets/assetss/fonts/Manrope/Manrope-Light.woff"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/fonts/Manrope/Manrope-Light.woff2",
+      "PackagePath": "staticwebassets/assetss/fonts/Manrope/Manrope-Light.woff2"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/fonts/Manrope/Manrope-Medium.eot",
+      "PackagePath": "staticwebassets/assetss/fonts/Manrope/Manrope-Medium.eot"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/fonts/Manrope/Manrope-Medium.ttf",
+      "PackagePath": "staticwebassets/assetss/fonts/Manrope/Manrope-Medium.ttf"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/fonts/Manrope/Manrope-Medium.woff",
+      "PackagePath": "staticwebassets/assetss/fonts/Manrope/Manrope-Medium.woff"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/fonts/Manrope/Manrope-Medium.woff2",
+      "PackagePath": "staticwebassets/assetss/fonts/Manrope/Manrope-Medium.woff2"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/fonts/Manrope/Manrope-Regular.eot",
+      "PackagePath": "staticwebassets/assetss/fonts/Manrope/Manrope-Regular.eot"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/fonts/Manrope/Manrope-Regular.ttf",
+      "PackagePath": "staticwebassets/assetss/fonts/Manrope/Manrope-Regular.ttf"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/fonts/Manrope/Manrope-Regular.woff",
+      "PackagePath": "staticwebassets/assetss/fonts/Manrope/Manrope-Regular.woff"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/fonts/Manrope/Manrope-Regular.woff2",
+      "PackagePath": "staticwebassets/assetss/fonts/Manrope/Manrope-Regular.woff2"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/fonts/Manrope/Manrope-SemiBold.eot",
+      "PackagePath": "staticwebassets/assetss/fonts/Manrope/Manrope-SemiBold.eot"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/fonts/Manrope/Manrope-SemiBold.ttf",
+      "PackagePath": "staticwebassets/assetss/fonts/Manrope/Manrope-SemiBold.ttf"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/fonts/Manrope/Manrope-SemiBold.woff",
+      "PackagePath": "staticwebassets/assetss/fonts/Manrope/Manrope-SemiBold.woff"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/fonts/Manrope/Manrope-SemiBold.woff2",
+      "PackagePath": "staticwebassets/assetss/fonts/Manrope/Manrope-SemiBold.woff2"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/fonts/Nunito/Nunito-Black.eot",
+      "PackagePath": "staticwebassets/assetss/fonts/Nunito/Nunito-Black.eot"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/fonts/Nunito/Nunito-Black.ttf",
+      "PackagePath": "staticwebassets/assetss/fonts/Nunito/Nunito-Black.ttf"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/fonts/Nunito/Nunito-Black.woff",
+      "PackagePath": "staticwebassets/assetss/fonts/Nunito/Nunito-Black.woff"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/fonts/Nunito/Nunito-Black.woff2",
+      "PackagePath": "staticwebassets/assetss/fonts/Nunito/Nunito-Black.woff2"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/fonts/Nunito/Nunito-Bold.eot",
+      "PackagePath": "staticwebassets/assetss/fonts/Nunito/Nunito-Bold.eot"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/fonts/Nunito/Nunito-Bold.ttf",
+      "PackagePath": "staticwebassets/assetss/fonts/Nunito/Nunito-Bold.ttf"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/fonts/Nunito/Nunito-Bold.woff",
+      "PackagePath": "staticwebassets/assetss/fonts/Nunito/Nunito-Bold.woff"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/fonts/Nunito/Nunito-Bold.woff2",
+      "PackagePath": "staticwebassets/assetss/fonts/Nunito/Nunito-Bold.woff2"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/fonts/Nunito/Nunito-ExtraBold.eot",
+      "PackagePath": "staticwebassets/assetss/fonts/Nunito/Nunito-ExtraBold.eot"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/fonts/Nunito/Nunito-ExtraBold.ttf",
+      "PackagePath": "staticwebassets/assetss/fonts/Nunito/Nunito-ExtraBold.ttf"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/fonts/Nunito/Nunito-ExtraBold.woff",
+      "PackagePath": "staticwebassets/assetss/fonts/Nunito/Nunito-ExtraBold.woff"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/fonts/Nunito/Nunito-ExtraBold.woff2",
+      "PackagePath": "staticwebassets/assetss/fonts/Nunito/Nunito-ExtraBold.woff2"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/fonts/Nunito/Nunito-ExtraLight.eot",
+      "PackagePath": "staticwebassets/assetss/fonts/Nunito/Nunito-ExtraLight.eot"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/fonts/Nunito/Nunito-ExtraLight.ttf",
+      "PackagePath": "staticwebassets/assetss/fonts/Nunito/Nunito-ExtraLight.ttf"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/fonts/Nunito/Nunito-ExtraLight.woff",
+      "PackagePath": "staticwebassets/assetss/fonts/Nunito/Nunito-ExtraLight.woff"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/fonts/Nunito/Nunito-ExtraLight.woff2",
+      "PackagePath": "staticwebassets/assetss/fonts/Nunito/Nunito-ExtraLight.woff2"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/fonts/Nunito/Nunito-Italic.eot",
+      "PackagePath": "staticwebassets/assetss/fonts/Nunito/Nunito-Italic.eot"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/fonts/Nunito/Nunito-Italic.ttf",
+      "PackagePath": "staticwebassets/assetss/fonts/Nunito/Nunito-Italic.ttf"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/fonts/Nunito/Nunito-Italic.woff",
+      "PackagePath": "staticwebassets/assetss/fonts/Nunito/Nunito-Italic.woff"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/fonts/Nunito/Nunito-Italic.woff2",
+      "PackagePath": "staticwebassets/assetss/fonts/Nunito/Nunito-Italic.woff2"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/fonts/Nunito/Nunito-Light.eot",
+      "PackagePath": "staticwebassets/assetss/fonts/Nunito/Nunito-Light.eot"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/fonts/Nunito/Nunito-Light.ttf",
+      "PackagePath": "staticwebassets/assetss/fonts/Nunito/Nunito-Light.ttf"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/fonts/Nunito/Nunito-Light.woff",
+      "PackagePath": "staticwebassets/assetss/fonts/Nunito/Nunito-Light.woff"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/fonts/Nunito/Nunito-Light.woff2",
+      "PackagePath": "staticwebassets/assetss/fonts/Nunito/Nunito-Light.woff2"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/fonts/Nunito/Nunito-Regular.eot",
+      "PackagePath": "staticwebassets/assetss/fonts/Nunito/Nunito-Regular.eot"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/fonts/Nunito/Nunito-Regular.ttf",
+      "PackagePath": "staticwebassets/assetss/fonts/Nunito/Nunito-Regular.ttf"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/fonts/Nunito/Nunito-Regular.woff",
+      "PackagePath": "staticwebassets/assetss/fonts/Nunito/Nunito-Regular.woff"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/fonts/Nunito/Nunito-Regular.woff2",
+      "PackagePath": "staticwebassets/assetss/fonts/Nunito/Nunito-Regular.woff2"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/fonts/Nunito/Nunito-SemiBold.eot",
+      "PackagePath": "staticwebassets/assetss/fonts/Nunito/Nunito-SemiBold.eot"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/fonts/Nunito/Nunito-SemiBold.ttf",
+      "PackagePath": "staticwebassets/assetss/fonts/Nunito/Nunito-SemiBold.ttf"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/fonts/Nunito/Nunito-SemiBold.woff",
+      "PackagePath": "staticwebassets/assetss/fonts/Nunito/Nunito-SemiBold.woff"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/fonts/Nunito/Nunito-SemiBold.woff2",
+      "PackagePath": "staticwebassets/assetss/fonts/Nunito/Nunito-SemiBold.woff2"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/fonts/Roboto/Roboto-Black.eot",
+      "PackagePath": "staticwebassets/assetss/fonts/Roboto/Roboto-Black.eot"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/fonts/Roboto/Roboto-Black.ttf",
+      "PackagePath": "staticwebassets/assetss/fonts/Roboto/Roboto-Black.ttf"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/fonts/Roboto/Roboto-Black.woff",
+      "PackagePath": "staticwebassets/assetss/fonts/Roboto/Roboto-Black.woff"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/fonts/Roboto/Roboto-Black.woff2",
+      "PackagePath": "staticwebassets/assetss/fonts/Roboto/Roboto-Black.woff2"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/fonts/Roboto/Roboto-Bold.eot",
+      "PackagePath": "staticwebassets/assetss/fonts/Roboto/Roboto-Bold.eot"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/fonts/Roboto/Roboto-Bold.ttf",
+      "PackagePath": "staticwebassets/assetss/fonts/Roboto/Roboto-Bold.ttf"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/fonts/Roboto/Roboto-Bold.woff",
+      "PackagePath": "staticwebassets/assetss/fonts/Roboto/Roboto-Bold.woff"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/fonts/Roboto/Roboto-Bold.woff2",
+      "PackagePath": "staticwebassets/assetss/fonts/Roboto/Roboto-Bold.woff2"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/fonts/Roboto/Roboto-Light.eot",
+      "PackagePath": "staticwebassets/assetss/fonts/Roboto/Roboto-Light.eot"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/fonts/Roboto/Roboto-Light.ttf",
+      "PackagePath": "staticwebassets/assetss/fonts/Roboto/Roboto-Light.ttf"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/fonts/Roboto/Roboto-Light.woff",
+      "PackagePath": "staticwebassets/assetss/fonts/Roboto/Roboto-Light.woff"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/fonts/Roboto/Roboto-Light.woff2",
+      "PackagePath": "staticwebassets/assetss/fonts/Roboto/Roboto-Light.woff2"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/fonts/Roboto/Roboto-Medium.eot",
+      "PackagePath": "staticwebassets/assetss/fonts/Roboto/Roboto-Medium.eot"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/fonts/Roboto/Roboto-Medium.ttf",
+      "PackagePath": "staticwebassets/assetss/fonts/Roboto/Roboto-Medium.ttf"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/fonts/Roboto/Roboto-Medium.woff",
+      "PackagePath": "staticwebassets/assetss/fonts/Roboto/Roboto-Medium.woff"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/fonts/Roboto/Roboto-Medium.woff2",
+      "PackagePath": "staticwebassets/assetss/fonts/Roboto/Roboto-Medium.woff2"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/fonts/Roboto/Roboto-Regular.eot",
+      "PackagePath": "staticwebassets/assetss/fonts/Roboto/Roboto-Regular.eot"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/fonts/Roboto/Roboto-Regular.ttf",
+      "PackagePath": "staticwebassets/assetss/fonts/Roboto/Roboto-Regular.ttf"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/fonts/Roboto/Roboto-Regular.woff",
+      "PackagePath": "staticwebassets/assetss/fonts/Roboto/Roboto-Regular.woff"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/fonts/Roboto/Roboto-Regular.woff2",
+      "PackagePath": "staticwebassets/assetss/fonts/Roboto/Roboto-Regular.woff2"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/images/arrow-down-dark.svg",
+      "PackagePath": "staticwebassets/assetss/images/arrow-down-dark.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/images/arrow-down.svg",
+      "PackagePath": "staticwebassets/assetss/images/arrow-down.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/images/dashboard/darkBG.png",
+      "PackagePath": "staticwebassets/assetss/images/dashboard/darkBG.png"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/images/faces/face1.jpg",
+      "PackagePath": "staticwebassets/assetss/images/faces/face1.jpg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/images/faces/face10.jpg",
+      "PackagePath": "staticwebassets/assetss/images/faces/face10.jpg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/images/faces/face11.jpg",
+      "PackagePath": "staticwebassets/assetss/images/faces/face11.jpg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/images/faces/face12.jpg",
+      "PackagePath": "staticwebassets/assetss/images/faces/face12.jpg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/images/faces/face13.jpg",
+      "PackagePath": "staticwebassets/assetss/images/faces/face13.jpg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/images/faces/face14.jpg",
+      "PackagePath": "staticwebassets/assetss/images/faces/face14.jpg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/images/faces/face15.jpg",
+      "PackagePath": "staticwebassets/assetss/images/faces/face15.jpg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/images/faces/face16.jpg",
+      "PackagePath": "staticwebassets/assetss/images/faces/face16.jpg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/images/faces/face17.jpg",
+      "PackagePath": "staticwebassets/assetss/images/faces/face17.jpg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/images/faces/face18.jpg",
+      "PackagePath": "staticwebassets/assetss/images/faces/face18.jpg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/images/faces/face19.jpg",
+      "PackagePath": "staticwebassets/assetss/images/faces/face19.jpg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/images/faces/face2.jpg",
+      "PackagePath": "staticwebassets/assetss/images/faces/face2.jpg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/images/faces/face20.jpg",
+      "PackagePath": "staticwebassets/assetss/images/faces/face20.jpg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/images/faces/face21.jpg",
+      "PackagePath": "staticwebassets/assetss/images/faces/face21.jpg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/images/faces/face22.jpg",
+      "PackagePath": "staticwebassets/assetss/images/faces/face22.jpg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/images/faces/face23.jpg",
+      "PackagePath": "staticwebassets/assetss/images/faces/face23.jpg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/images/faces/face24.jpg",
+      "PackagePath": "staticwebassets/assetss/images/faces/face24.jpg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/images/faces/face25.jpg",
+      "PackagePath": "staticwebassets/assetss/images/faces/face25.jpg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/images/faces/face26.jpg",
+      "PackagePath": "staticwebassets/assetss/images/faces/face26.jpg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/images/faces/face27.jpg",
+      "PackagePath": "staticwebassets/assetss/images/faces/face27.jpg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/images/faces/face3.jpg",
+      "PackagePath": "staticwebassets/assetss/images/faces/face3.jpg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/images/faces/face4.jpg",
+      "PackagePath": "staticwebassets/assetss/images/faces/face4.jpg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/images/faces/face5.jpg",
+      "PackagePath": "staticwebassets/assetss/images/faces/face5.jpg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/images/faces/face6.jpg",
+      "PackagePath": "staticwebassets/assetss/images/faces/face6.jpg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/images/faces/face7.jpg",
+      "PackagePath": "staticwebassets/assetss/images/faces/face7.jpg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/images/faces/face8.jpg",
+      "PackagePath": "staticwebassets/assetss/images/faces/face8.jpg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/images/faces/face9.jpg",
+      "PackagePath": "staticwebassets/assetss/images/faces/face9.jpg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/images/faces/profile/profile.jpg",
+      "PackagePath": "staticwebassets/assetss/images/faces/profile/profile.jpg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/images/favicon.ico",
+      "PackagePath": "staticwebassets/assetss/images/favicon.ico"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/images/favicon.png",
+      "PackagePath": "staticwebassets/assetss/images/favicon.png"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/images/logo-dark.svg",
+      "PackagePath": "staticwebassets/assetss/images/logo-dark.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/images/logo-light-1.svg",
+      "PackagePath": "staticwebassets/assetss/images/logo-light-1.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/images/logo-light.svg",
+      "PackagePath": "staticwebassets/assetss/images/logo-light.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/images/logo-mini-reverse.svg",
+      "PackagePath": "staticwebassets/assetss/images/logo-mini-reverse.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/images/logo-mini.svg",
+      "PackagePath": "staticwebassets/assetss/images/logo-mini.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/images/logo.svg",
+      "PackagePath": "staticwebassets/assetss/images/logo.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/js/Chart.roundedBarCharts.js",
+      "PackagePath": "staticwebassets/assetss/js/Chart.roundedBarCharts.js"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/js/chart.js",
+      "PackagePath": "staticwebassets/assetss/js/chart.js"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/js/codemirror.js",
+      "PackagePath": "staticwebassets/assetss/js/codemirror.js"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/js/dashboard.js",
+      "PackagePath": "staticwebassets/assetss/js/dashboard.js"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/js/file-upload.js",
+      "PackagePath": "staticwebassets/assetss/js/file-upload.js"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/js/hoverable-collapse.js",
+      "PackagePath": "staticwebassets/assetss/js/hoverable-collapse.js"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/js/jquery-file-upload.js",
+      "PackagePath": "staticwebassets/assetss/js/jquery-file-upload.js"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/js/jquery.cookie.js",
+      "PackagePath": "staticwebassets/assetss/js/jquery.cookie.js"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/js/off-canvas.js",
+      "PackagePath": "staticwebassets/assetss/js/off-canvas.js"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/js/select.dataTables.min.css",
+      "PackagePath": "staticwebassets/assetss/js/select.dataTables.min.css"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/js/select2.js",
+      "PackagePath": "staticwebassets/assetss/js/select2.js"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/js/settings.js",
+      "PackagePath": "staticwebassets/assetss/js/settings.js"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/js/template.js",
+      "PackagePath": "staticwebassets/assetss/js/template.js"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/js/todolist.js",
+      "PackagePath": "staticwebassets/assetss/js/todolist.js"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/js/typeahead.js",
+      "PackagePath": "staticwebassets/assetss/js/typeahead.js"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/scss/_layouts.scss",
+      "PackagePath": "staticwebassets/assetss/scss/_layouts.scss"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/scss/_navbar.scss",
+      "PackagePath": "staticwebassets/assetss/scss/_navbar.scss"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/scss/_sidebar.scss",
+      "PackagePath": "staticwebassets/assetss/scss/_sidebar.scss"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/scss/_variables.scss",
+      "PackagePath": "staticwebassets/assetss/scss/_variables.scss"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/scss/_vertical-wrapper.scss",
+      "PackagePath": "staticwebassets/assetss/scss/_vertical-wrapper.scss"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/scss/fonts/Manrope/Manrope-Light.eot",
+      "PackagePath": "staticwebassets/assetss/scss/fonts/Manrope/Manrope-Light.eot"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/scss/light/_background.scss",
+      "PackagePath": "staticwebassets/assetss/scss/light/_background.scss"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/scss/light/_dashboard.scss",
+      "PackagePath": "staticwebassets/assetss/scss/light/_dashboard.scss"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/scss/light/_demo.scss",
+      "PackagePath": "staticwebassets/assetss/scss/light/_demo.scss"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/scss/light/_fonts.scss",
+      "PackagePath": "staticwebassets/assetss/scss/light/_fonts.scss"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/scss/light/_footer.scss",
+      "PackagePath": "staticwebassets/assetss/scss/light/_footer.scss"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/scss/light/_functions.scss",
+      "PackagePath": "staticwebassets/assetss/scss/light/_functions.scss"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/scss/light/_misc.scss",
+      "PackagePath": "staticwebassets/assetss/scss/light/_misc.scss"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/scss/light/_reset.scss",
+      "PackagePath": "staticwebassets/assetss/scss/light/_reset.scss"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/scss/light/_typography.scss",
+      "PackagePath": "staticwebassets/assetss/scss/light/_typography.scss"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/scss/light/_utilities.scss",
+      "PackagePath": "staticwebassets/assetss/scss/light/_utilities.scss"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/scss/light/_variables.scss",
+      "PackagePath": "staticwebassets/assetss/scss/light/_variables.scss"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/scss/light/common.scss",
+      "PackagePath": "staticwebassets/assetss/scss/light/common.scss"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/scss/light/components/_badges.scss",
+      "PackagePath": "staticwebassets/assetss/scss/light/components/_badges.scss"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/scss/light/components/_breadcrumbs.scss",
+      "PackagePath": "staticwebassets/assetss/scss/light/components/_breadcrumbs.scss"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/scss/light/components/_buttons.scss",
+      "PackagePath": "staticwebassets/assetss/scss/light/components/_buttons.scss"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/scss/light/components/_cards.scss",
+      "PackagePath": "staticwebassets/assetss/scss/light/components/_cards.scss"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/scss/light/components/_checkbox-radio.scss",
+      "PackagePath": "staticwebassets/assetss/scss/light/components/_checkbox-radio.scss"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/scss/light/components/_dropdown.scss",
+      "PackagePath": "staticwebassets/assetss/scss/light/components/_dropdown.scss"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/scss/light/components/_forms.scss",
+      "PackagePath": "staticwebassets/assetss/scss/light/components/_forms.scss"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/scss/light/components/_icons.scss",
+      "PackagePath": "staticwebassets/assetss/scss/light/components/_icons.scss"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/scss/light/components/_lists.scss",
+      "PackagePath": "staticwebassets/assetss/scss/light/components/_lists.scss"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/scss/light/components/_material-forms.scss",
+      "PackagePath": "staticwebassets/assetss/scss/light/components/_material-forms.scss"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/scss/light/components/_preview.scss",
+      "PackagePath": "staticwebassets/assetss/scss/light/components/_preview.scss"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/scss/light/components/_tables.scss",
+      "PackagePath": "staticwebassets/assetss/scss/light/components/_tables.scss"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/scss/light/components/_tabs.scss",
+      "PackagePath": "staticwebassets/assetss/scss/light/components/_tabs.scss"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/scss/light/components/_todo-list.scss",
+      "PackagePath": "staticwebassets/assetss/scss/light/components/_todo-list.scss"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/scss/light/components/loaders/_bar-loader.scss",
+      "PackagePath": "staticwebassets/assetss/scss/light/components/loaders/_bar-loader.scss"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/scss/light/components/loaders/_circle-loader.scss",
+      "PackagePath": "staticwebassets/assetss/scss/light/components/loaders/_circle-loader.scss"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/scss/light/components/loaders/_colored-balls.scss",
+      "PackagePath": "staticwebassets/assetss/scss/light/components/loaders/_colored-balls.scss"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/scss/light/components/loaders/_dot-opacity-loader.scss",
+      "PackagePath": "staticwebassets/assetss/scss/light/components/loaders/_dot-opacity-loader.scss"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/scss/light/components/loaders/_flip-square-loader.scss",
+      "PackagePath": "staticwebassets/assetss/scss/light/components/loaders/_flip-square-loader.scss"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/scss/light/components/loaders/_glowing-ball.scss",
+      "PackagePath": "staticwebassets/assetss/scss/light/components/loaders/_glowing-ball.scss"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/scss/light/components/loaders/_jumping-dots-loader.scss",
+      "PackagePath": "staticwebassets/assetss/scss/light/components/loaders/_jumping-dots-loader.scss"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/scss/light/components/loaders/_loaders.scss",
+      "PackagePath": "staticwebassets/assetss/scss/light/components/loaders/_loaders.scss"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/scss/light/components/loaders/_moving-square-loader.scss",
+      "PackagePath": "staticwebassets/assetss/scss/light/components/loaders/_moving-square-loader.scss"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/scss/light/components/loaders/_pixel-loader.scss",
+      "PackagePath": "staticwebassets/assetss/scss/light/components/loaders/_pixel-loader.scss"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/scss/light/components/loaders/_square-box.scss",
+      "PackagePath": "staticwebassets/assetss/scss/light/components/loaders/_square-box.scss"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/scss/light/components/loaders/_square-path-loader.scss",
+      "PackagePath": "staticwebassets/assetss/scss/light/components/loaders/_square-path-loader.scss"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/scss/light/components/loaders/_variables.scss",
+      "PackagePath": "staticwebassets/assetss/scss/light/components/loaders/_variables.scss"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/scss/light/components/plugin-overrides/_codemirror.scss",
+      "PackagePath": "staticwebassets/assetss/scss/light/components/plugin-overrides/_codemirror.scss"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/scss/light/components/plugin-overrides/_datepicker.scss",
+      "PackagePath": "staticwebassets/assetss/scss/light/components/plugin-overrides/_datepicker.scss"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/scss/light/components/plugin-overrides/_select2.scss",
+      "PackagePath": "staticwebassets/assetss/scss/light/components/plugin-overrides/_select2.scss"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/scss/light/components/plugin-overrides/_typeahead.scss",
+      "PackagePath": "staticwebassets/assetss/scss/light/components/plugin-overrides/_typeahead.scss"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/scss/light/landing-screens/_auth.scss",
+      "PackagePath": "staticwebassets/assetss/scss/light/landing-screens/_auth.scss"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/scss/light/mixins/_animation.scss",
+      "PackagePath": "staticwebassets/assetss/scss/light/mixins/_animation.scss"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/scss/light/mixins/_badges.scss",
+      "PackagePath": "staticwebassets/assetss/scss/light/mixins/_badges.scss"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/scss/light/mixins/_blockqoute.scss",
+      "PackagePath": "staticwebassets/assetss/scss/light/mixins/_blockqoute.scss"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/scss/light/mixins/_breadcrumbs.scss",
+      "PackagePath": "staticwebassets/assetss/scss/light/mixins/_breadcrumbs.scss"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/scss/light/mixins/_buttons.scss",
+      "PackagePath": "staticwebassets/assetss/scss/light/mixins/_buttons.scss"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/scss/light/mixins/_cards.scss",
+      "PackagePath": "staticwebassets/assetss/scss/light/mixins/_cards.scss"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/scss/light/mixins/_misc.scss",
+      "PackagePath": "staticwebassets/assetss/scss/light/mixins/_misc.scss"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/scss/light/mixins/_no-ui-slider.scss",
+      "PackagePath": "staticwebassets/assetss/scss/light/mixins/_no-ui-slider.scss"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/scss/light/mixins/_pagination.scss",
+      "PackagePath": "staticwebassets/assetss/scss/light/mixins/_pagination.scss"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/scss/light/mixins/_popovers.scss",
+      "PackagePath": "staticwebassets/assetss/scss/light/mixins/_popovers.scss"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/scss/light/mixins/_tooltips.scss",
+      "PackagePath": "staticwebassets/assetss/scss/light/mixins/_tooltips.scss"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/scss/style.scss",
+      "PackagePath": "staticwebassets/assetss/scss/style.scss"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/bootstrap-datepicker/bootstrap-datepicker.min.css",
+      "PackagePath": "staticwebassets/assetss/vendors/bootstrap-datepicker/bootstrap-datepicker.min.css"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/bootstrap-datepicker/bootstrap-datepicker.min.js",
+      "PackagePath": "staticwebassets/assetss/vendors/bootstrap-datepicker/bootstrap-datepicker.min.js"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/bootstrap-maxlength/bootstrap-maxlength.min.js",
+      "PackagePath": "staticwebassets/assetss/vendors/bootstrap-maxlength/bootstrap-maxlength.min.js"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/chart.js/chart.umd.js",
+      "PackagePath": "staticwebassets/assetss/vendors/chart.js/chart.umd.js"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/codemirror/ambiance.css",
+      "PackagePath": "staticwebassets/assetss/vendors/codemirror/ambiance.css"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/codemirror/codemirror.css",
+      "PackagePath": "staticwebassets/assetss/vendors/codemirror/codemirror.css"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/codemirror/codemirror.js",
+      "PackagePath": "staticwebassets/assetss/vendors/codemirror/codemirror.js"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/codemirror/javascript.js",
+      "PackagePath": "staticwebassets/assetss/vendors/codemirror/javascript.js"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/codemirror/shell.js",
+      "PackagePath": "staticwebassets/assetss/vendors/codemirror/shell.js"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/css/vendor.bundle.base.css",
+      "PackagePath": "staticwebassets/assetss/vendors/css/vendor.bundle.base.css"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/datatables.net-bs4/dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets/assetss/vendors/datatables.net-bs4/dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/datatables.net-bs4/dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets/assetss/vendors/datatables.net-bs4/dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/datatables.net/jquery.dataTables.js",
+      "PackagePath": "staticwebassets/assetss/vendors/datatables.net/jquery.dataTables.js"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/feather/feather.css",
+      "PackagePath": "staticwebassets/assetss/vendors/feather/feather.css"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/feather/fonts/feather-webfont.eot",
+      "PackagePath": "staticwebassets/assetss/vendors/feather/fonts/feather-webfont.eot"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/feather/fonts/feather-webfont.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/feather/fonts/feather-webfont.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/feather/fonts/feather-webfont.ttf",
+      "PackagePath": "staticwebassets/assetss/vendors/feather/fonts/feather-webfont.ttf"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/feather/fonts/feather-webfont.woff",
+      "PackagePath": "staticwebassets/assetss/vendors/feather/fonts/feather-webfont.woff"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/css/flag-icons.min.css",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/css/flag-icons.min.css"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/ac.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/ac.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/ad.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/ad.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/ae.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/ae.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/af.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/af.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/ag.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/ag.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/ai.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/ai.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/al.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/al.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/am.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/am.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/ao.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/ao.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/aq.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/aq.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/ar.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/ar.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/as.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/as.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/at.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/at.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/au.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/au.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/aw.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/aw.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/ax.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/ax.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/az.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/az.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/ba.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/ba.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/bb.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/bb.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/bd.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/bd.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/be.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/be.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/bf.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/bf.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/bg.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/bg.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/bh.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/bh.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/bi.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/bi.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/bj.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/bj.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/bl.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/bl.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/bm.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/bm.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/bn.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/bn.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/bo.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/bo.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/bq.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/bq.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/br.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/br.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/bs.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/bs.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/bt.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/bt.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/bv.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/bv.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/bw.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/bw.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/by.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/by.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/bz.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/bz.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/ca.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/ca.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/cc.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/cc.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/cd.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/cd.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/cf.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/cf.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/cg.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/cg.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/ch.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/ch.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/ci.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/ci.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/ck.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/ck.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/cl.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/cl.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/cm.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/cm.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/cn.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/cn.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/co.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/co.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/cp.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/cp.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/cr.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/cr.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/cu.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/cu.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/cv.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/cv.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/cw.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/cw.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/cx.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/cx.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/cy.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/cy.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/cz.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/cz.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/de.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/de.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/dg.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/dg.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/dj.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/dj.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/dk.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/dk.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/dm.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/dm.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/do.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/do.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/dz.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/dz.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/ea.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/ea.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/ec.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/ec.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/ee.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/ee.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/eg.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/eg.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/eh.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/eh.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/er.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/er.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/es-ct.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/es-ct.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/es-ga.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/es-ga.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/es.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/es.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/et.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/et.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/eu.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/eu.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/fi.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/fi.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/fj.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/fj.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/fk.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/fk.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/fm.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/fm.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/fo.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/fo.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/fr.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/fr.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/ga.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/ga.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/gb-eng.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/gb-eng.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/gb-nir.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/gb-nir.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/gb-sct.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/gb-sct.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/gb-wls.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/gb-wls.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/gb.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/gb.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/gd.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/gd.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/ge.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/ge.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/gf.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/gf.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/gg.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/gg.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/gh.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/gh.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/gi.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/gi.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/gl.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/gl.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/gm.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/gm.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/gn.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/gn.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/gp.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/gp.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/gq.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/gq.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/gr.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/gr.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/gs.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/gs.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/gt.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/gt.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/gu.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/gu.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/gw.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/gw.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/gy.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/gy.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/hk.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/hk.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/hm.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/hm.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/hn.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/hn.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/hr.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/hr.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/ht.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/ht.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/hu.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/hu.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/ic.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/ic.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/id.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/id.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/ie.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/ie.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/il.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/il.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/im.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/im.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/in.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/in.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/io.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/io.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/iq.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/iq.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/ir.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/ir.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/is.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/is.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/it.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/it.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/je.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/je.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/jm.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/jm.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/jo.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/jo.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/jp.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/jp.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/ke.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/ke.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/kg.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/kg.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/kh.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/kh.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/ki.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/ki.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/km.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/km.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/kn.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/kn.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/kp.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/kp.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/kr.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/kr.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/kw.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/kw.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/ky.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/ky.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/kz.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/kz.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/la.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/la.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/lb.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/lb.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/lc.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/lc.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/li.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/li.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/lk.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/lk.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/lr.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/lr.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/ls.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/ls.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/lt.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/lt.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/lu.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/lu.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/lv.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/lv.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/ly.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/ly.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/ma.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/ma.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/mc.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/mc.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/md.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/md.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/me.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/me.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/mf.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/mf.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/mg.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/mg.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/mh.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/mh.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/mk.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/mk.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/ml.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/ml.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/mm.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/mm.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/mn.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/mn.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/mo.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/mo.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/mp.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/mp.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/mq.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/mq.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/mr.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/mr.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/ms.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/ms.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/mt.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/mt.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/mu.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/mu.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/mv.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/mv.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/mw.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/mw.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/mx.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/mx.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/my.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/my.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/mz.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/mz.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/na.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/na.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/nc.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/nc.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/ne.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/ne.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/nf.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/nf.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/ng.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/ng.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/ni.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/ni.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/nl.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/nl.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/no.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/no.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/np.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/np.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/nr.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/nr.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/nu.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/nu.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/nz.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/nz.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/om.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/om.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/pa.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/pa.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/pe.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/pe.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/pf.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/pf.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/pg.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/pg.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/ph.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/ph.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/pk.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/pk.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/pl.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/pl.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/pm.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/pm.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/pn.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/pn.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/pr.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/pr.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/ps.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/ps.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/pt.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/pt.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/pw.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/pw.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/py.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/py.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/qa.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/qa.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/re.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/re.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/ro.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/ro.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/rs.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/rs.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/ru.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/ru.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/rw.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/rw.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/sa.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/sa.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/sb.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/sb.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/sc.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/sc.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/sd.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/sd.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/se.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/se.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/sg.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/sg.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/sh.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/sh.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/si.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/si.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/sj.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/sj.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/sk.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/sk.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/sl.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/sl.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/sm.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/sm.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/sn.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/sn.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/so.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/so.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/sr.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/sr.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/ss.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/ss.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/st.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/st.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/sv.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/sv.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/sx.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/sx.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/sy.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/sy.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/sz.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/sz.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/ta.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/ta.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/tc.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/tc.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/td.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/td.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/tf.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/tf.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/tg.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/tg.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/th.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/th.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/tj.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/tj.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/tk.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/tk.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/tl.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/tl.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/tm.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/tm.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/tn.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/tn.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/to.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/to.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/tr.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/tr.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/tt.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/tt.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/tv.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/tv.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/tw.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/tw.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/tz.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/tz.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/ua.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/ua.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/ug.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/ug.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/um.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/um.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/un.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/un.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/us.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/us.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/uy.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/uy.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/uz.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/uz.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/va.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/va.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/vc.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/vc.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/ve.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/ve.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/vg.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/vg.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/vi.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/vi.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/vn.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/vn.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/vu.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/vu.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/wf.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/wf.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/ws.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/ws.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/xk.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/xk.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/xx.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/xx.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/ye.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/ye.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/yt.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/yt.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/za.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/za.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/zm.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/zm.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/1x1/zw.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/1x1/zw.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/ac.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/ac.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/ad.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/ad.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/ae.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/ae.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/af.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/af.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/ag.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/ag.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/ai.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/ai.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/al.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/al.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/am.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/am.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/ao.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/ao.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/aq.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/aq.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/ar.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/ar.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/as.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/as.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/at.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/at.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/au.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/au.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/aw.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/aw.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/ax.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/ax.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/az.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/az.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/ba.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/ba.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/bb.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/bb.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/bd.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/bd.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/be.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/be.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/bf.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/bf.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/bg.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/bg.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/bh.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/bh.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/bi.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/bi.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/bj.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/bj.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/bl.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/bl.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/bm.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/bm.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/bn.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/bn.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/bo.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/bo.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/bq.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/bq.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/br.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/br.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/bs.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/bs.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/bt.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/bt.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/bv.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/bv.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/bw.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/bw.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/by.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/by.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/bz.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/bz.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/ca.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/ca.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/cc.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/cc.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/cd.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/cd.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/cf.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/cf.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/cg.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/cg.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/ch.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/ch.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/ci.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/ci.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/ck.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/ck.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/cl.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/cl.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/cm.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/cm.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/cn.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/cn.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/co.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/co.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/cp.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/cp.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/cr.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/cr.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/cu.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/cu.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/cv.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/cv.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/cw.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/cw.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/cx.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/cx.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/cy.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/cy.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/cz.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/cz.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/de.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/de.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/dg.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/dg.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/dj.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/dj.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/dk.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/dk.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/dm.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/dm.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/do.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/do.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/dz.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/dz.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/ea.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/ea.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/ec.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/ec.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/ee.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/ee.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/eg.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/eg.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/eh.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/eh.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/er.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/er.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/es-ct.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/es-ct.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/es-ga.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/es-ga.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/es.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/es.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/et.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/et.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/eu.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/eu.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/fi.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/fi.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/fj.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/fj.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/fk.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/fk.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/fm.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/fm.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/fo.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/fo.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/fr.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/fr.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/ga.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/ga.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/gb-eng.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/gb-eng.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/gb-nir.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/gb-nir.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/gb-sct.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/gb-sct.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/gb-wls.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/gb-wls.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/gb.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/gb.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/gd.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/gd.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/ge.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/ge.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/gf.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/gf.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/gg.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/gg.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/gh.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/gh.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/gi.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/gi.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/gl.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/gl.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/gm.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/gm.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/gn.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/gn.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/gp.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/gp.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/gq.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/gq.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/gr.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/gr.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/gs.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/gs.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/gt.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/gt.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/gu.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/gu.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/gw.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/gw.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/gy.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/gy.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/hk.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/hk.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/hm.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/hm.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/hn.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/hn.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/hr.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/hr.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/ht.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/ht.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/hu.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/hu.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/ic.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/ic.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/id.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/id.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/ie.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/ie.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/il.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/il.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/im.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/im.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/in.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/in.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/io.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/io.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/iq.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/iq.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/ir.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/ir.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/is.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/is.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/it.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/it.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/je.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/je.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/jm.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/jm.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/jo.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/jo.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/jp.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/jp.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/ke.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/ke.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/kg.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/kg.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/kh.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/kh.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/ki.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/ki.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/km.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/km.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/kn.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/kn.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/kp.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/kp.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/kr.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/kr.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/kw.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/kw.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/ky.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/ky.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/kz.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/kz.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/la.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/la.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/lb.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/lb.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/lc.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/lc.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/li.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/li.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/lk.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/lk.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/lr.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/lr.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/ls.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/ls.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/lt.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/lt.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/lu.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/lu.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/lv.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/lv.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/ly.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/ly.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/ma.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/ma.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/mc.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/mc.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/md.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/md.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/me.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/me.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/mf.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/mf.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/mg.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/mg.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/mh.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/mh.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/mk.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/mk.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/ml.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/ml.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/mm.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/mm.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/mn.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/mn.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/mo.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/mo.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/mp.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/mp.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/mq.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/mq.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/mr.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/mr.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/ms.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/ms.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/mt.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/mt.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/mu.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/mu.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/mv.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/mv.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/mw.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/mw.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/mx.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/mx.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/my.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/my.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/mz.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/mz.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/na.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/na.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/nc.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/nc.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/ne.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/ne.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/nf.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/nf.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/ng.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/ng.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/ni.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/ni.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/nl.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/nl.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/no.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/no.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/np.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/np.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/nr.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/nr.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/nu.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/nu.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/nz.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/nz.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/om.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/om.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/pa.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/pa.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/pe.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/pe.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/pf.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/pf.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/pg.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/pg.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/ph.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/ph.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/pk.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/pk.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/pl.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/pl.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/pm.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/pm.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/pn.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/pn.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/pr.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/pr.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/ps.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/ps.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/pt.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/pt.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/pw.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/pw.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/py.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/py.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/qa.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/qa.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/re.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/re.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/ro.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/ro.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/rs.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/rs.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/ru.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/ru.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/rw.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/rw.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/sa.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/sa.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/sb.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/sb.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/sc.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/sc.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/sd.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/sd.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/se.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/se.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/sg.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/sg.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/sh.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/sh.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/si.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/si.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/sj.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/sj.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/sk.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/sk.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/sl.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/sl.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/sm.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/sm.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/sn.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/sn.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/so.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/so.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/sr.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/sr.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/ss.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/ss.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/st.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/st.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/sv.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/sv.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/sx.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/sx.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/sy.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/sy.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/sz.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/sz.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/ta.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/ta.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/tc.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/tc.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/td.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/td.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/tf.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/tf.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/tg.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/tg.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/th.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/th.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/tj.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/tj.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/tk.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/tk.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/tl.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/tl.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/tm.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/tm.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/tn.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/tn.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/to.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/to.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/tr.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/tr.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/tt.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/tt.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/tv.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/tv.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/tw.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/tw.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/tz.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/tz.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/ua.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/ua.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/ug.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/ug.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/um.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/um.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/un.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/un.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/us.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/us.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/uy.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/uy.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/uz.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/uz.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/va.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/va.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/vc.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/vc.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/ve.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/ve.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/vg.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/vg.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/vi.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/vi.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/vn.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/vn.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/vu.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/vu.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/wf.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/wf.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/ws.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/ws.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/xk.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/xk.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/xx.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/xx.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/ye.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/ye.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/yt.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/yt.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/za.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/za.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/zm.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/zm.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/flag-icon-css/flags/4x3/zw.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/flag-icon-css/flags/4x3/zw.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/font-awesome/css/font-awesome.min.css",
+      "PackagePath": "staticwebassets/assetss/vendors/font-awesome/css/font-awesome.min.css"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/font-awesome/fonts/FontAwesome.otf",
+      "PackagePath": "staticwebassets/assetss/vendors/font-awesome/fonts/FontAwesome.otf"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/font-awesome/fonts/fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets/assetss/vendors/font-awesome/fonts/fontawesome-webfont.eot"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/font-awesome/fonts/fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/font-awesome/fonts/fontawesome-webfont.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/font-awesome/fonts/fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets/assetss/vendors/font-awesome/fonts/fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/font-awesome/fonts/fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets/assetss/vendors/font-awesome/fonts/fontawesome-webfont.woff"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/font-awesome/fonts/fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets/assetss/vendors/font-awesome/fonts/fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/assetss/vendors/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/js/vendor.bundle.base.js",
+      "PackagePath": "staticwebassets/assetss/vendors/js/vendor.bundle.base.js"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/mdi/css/materialdesignicons.min.css",
+      "PackagePath": "staticwebassets/assetss/vendors/mdi/css/materialdesignicons.min.css"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/mdi/css/materialdesignicons.min.css.map",
+      "PackagePath": "staticwebassets/assetss/vendors/mdi/css/materialdesignicons.min.css.map"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/mdi/fonts/materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets/assetss/vendors/mdi/fonts/materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/mdi/fonts/materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets/assetss/vendors/mdi/fonts/materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/mdi/fonts/materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets/assetss/vendors/mdi/fonts/materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/mdi/fonts/materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets/assetss/vendors/mdi/fonts/materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/progressbar.js/progressbar.min.js",
+      "PackagePath": "staticwebassets/assetss/vendors/progressbar.js/progressbar.min.js"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/progressbar.js/progressbar.min.js.map",
+      "PackagePath": "staticwebassets/assetss/vendors/progressbar.js/progressbar.min.js.map"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/pwstabs/jquery.pwstabs.min.css",
+      "PackagePath": "staticwebassets/assetss/vendors/pwstabs/jquery.pwstabs.min.css"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/pwstabs/jquery.pwstabs.min.js",
+      "PackagePath": "staticwebassets/assetss/vendors/pwstabs/jquery.pwstabs.min.js"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/select2-bootstrap-theme/select2-bootstrap.min.css",
+      "PackagePath": "staticwebassets/assetss/vendors/select2-bootstrap-theme/select2-bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/select2/select2.min.css",
+      "PackagePath": "staticwebassets/assetss/vendors/select2/select2.min.css"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/select2/select2.min.js",
+      "PackagePath": "staticwebassets/assetss/vendors/select2/select2.min.js"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/simple-line-icons/css/simple-line-icons.css",
+      "PackagePath": "staticwebassets/assetss/vendors/simple-line-icons/css/simple-line-icons.css"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/simple-line-icons/fonts/Simple-Line-Icons.eot",
+      "PackagePath": "staticwebassets/assetss/vendors/simple-line-icons/fonts/Simple-Line-Icons.eot"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/simple-line-icons/fonts/Simple-Line-Icons.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/simple-line-icons/fonts/Simple-Line-Icons.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/simple-line-icons/fonts/Simple-Line-Icons.ttf",
+      "PackagePath": "staticwebassets/assetss/vendors/simple-line-icons/fonts/Simple-Line-Icons.ttf"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/simple-line-icons/fonts/Simple-Line-Icons.woff",
+      "PackagePath": "staticwebassets/assetss/vendors/simple-line-icons/fonts/Simple-Line-Icons.woff"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/simple-line-icons/fonts/Simple-Line-Icons.woff2",
+      "PackagePath": "staticwebassets/assetss/vendors/simple-line-icons/fonts/Simple-Line-Icons.woff2"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/ti-icons/css/themify-icons.css",
+      "PackagePath": "staticwebassets/assetss/vendors/ti-icons/css/themify-icons.css"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/ti-icons/fonts/themify.eot",
+      "PackagePath": "staticwebassets/assetss/vendors/ti-icons/fonts/themify.eot"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/ti-icons/fonts/themify.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/ti-icons/fonts/themify.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/ti-icons/fonts/themify.ttf",
+      "PackagePath": "staticwebassets/assetss/vendors/ti-icons/fonts/themify.ttf"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/ti-icons/fonts/themify.woff",
+      "PackagePath": "staticwebassets/assetss/vendors/ti-icons/fonts/themify.woff"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/typeahead.js/typeahead.bundle.min.js",
+      "PackagePath": "staticwebassets/assetss/vendors/typeahead.js/typeahead.bundle.min.js"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/typicons/LICENCE.md",
+      "PackagePath": "staticwebassets/assetss/vendors/typicons/LICENCE.md"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/typicons/demo.html",
+      "PackagePath": "staticwebassets/assetss/vendors/typicons/demo.html"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/typicons/typicons.css",
+      "PackagePath": "staticwebassets/assetss/vendors/typicons/typicons.css"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/typicons/typicons.eot",
+      "PackagePath": "staticwebassets/assetss/vendors/typicons/typicons.eot"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/typicons/typicons.json",
+      "PackagePath": "staticwebassets/assetss/vendors/typicons/typicons.json"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/typicons/typicons.svg",
+      "PackagePath": "staticwebassets/assetss/vendors/typicons/typicons.svg"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/typicons/typicons.ttf",
+      "PackagePath": "staticwebassets/assetss/vendors/typicons/typicons.ttf"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/typicons/typicons.woff",
+      "PackagePath": "staticwebassets/assetss/vendors/typicons/typicons.woff"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/assetss/vendors/typicons/typicons.woff2",
+      "PackagePath": "staticwebassets/assetss/vendors/typicons/typicons.woff2"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/images/00f81cf4-a0b9-41fd-84f1-ab3e35b9c961_aokhoacnu.webp",
+      "PackagePath": "staticwebassets/images/00f81cf4-a0b9-41fd-84f1-ab3e35b9c961_aokhoacnu.webp"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/images/1052f3bc-19e0-4f81-a5fd-cd60e271d470_Aopolonam.webp",
+      "PackagePath": "staticwebassets/images/1052f3bc-19e0-4f81-a5fd-cd60e271d470_Aopolonam.webp"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/images/222c3556-f4bb-42a5-a27f-108f819117f9_quantaynam.webp",
+      "PackagePath": "staticwebassets/images/222c3556-f4bb-42a5-a27f-108f819117f9_quantaynam.webp"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/images/2d87e250-5267-4e0e-bb31-9087532d6760_Aodetkimnu.webp",
+      "PackagePath": "staticwebassets/images/2d87e250-5267-4e0e-bb31-9087532d6760_Aodetkimnu.webp"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/images/5cd9f3d0-7f59-4034-9997-5d5af230e1e2_aothunnu.webp",
+      "PackagePath": "staticwebassets/images/5cd9f3d0-7f59-4034-9997-5d5af230e1e2_aothunnu.webp"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/images/6543abf7-2a69-43a0-990e-6cbfa1c98392_aodainu.png",
+      "PackagePath": "staticwebassets/images/6543abf7-2a69-43a0-990e-6cbfa1c98392_aodainu.png"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/images/7766fac5-859a-4ce6-a313-238f7b04c3a5_aothunnu1.webp",
+      "PackagePath": "staticwebassets/images/7766fac5-859a-4ce6-a313-238f7b04c3a5_aothunnu1.webp"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/images/8187a08b-b6f4-4e42-a3bd-7cc7e70ea49e_quạnjeannu.webp",
+      "PackagePath": "staticwebassets/images/8187a08b-b6f4-4e42-a3bd-7cc7e70ea49e_quạnjeannu.webp"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/images/86f36d56-239d-4080-b2f3-343678796e12_aokhoacnam.webp",
+      "PackagePath": "staticwebassets/images/86f36d56-239d-4080-b2f3-343678796e12_aokhoacnam.webp"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/images/9cbab997-0532-4303-92c6-310161276a38_aothunnu.webp",
+      "PackagePath": "staticwebassets/images/9cbab997-0532-4303-92c6-310161276a38_aothunnu.webp"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/images/af82bbe9-fe64-42f5-9a63-41bd2d0b9164_quantaynu.webp",
+      "PackagePath": "staticwebassets/images/af82bbe9-fe64-42f5-9a63-41bd2d0b9164_quantaynu.webp"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/images/d145d927-5177-407f-b4d3-fb21095735b7_aothunnam.webp",
+      "PackagePath": "staticwebassets/images/d145d927-5177-407f-b4d3-fb21095735b7_aothunnam.webp"
+    },
+    {
+      "Id": "/Users/kien283/Fashion-Shop/fShop/wwwroot/images/dea0ff34-68de-485c-bfb5-c6dade0e6ad3_aopolonu.webp",
+      "PackagePath": "staticwebassets/images/dea0ff34-68de-485c-bfb5-c6dade0e6ad3_aopolonu.webp"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.fShop.props",
+      "PackagePath": "build\\fShop.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.fShop.props",
+      "PackagePath": "buildMultiTargeting\\fShop.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.fShop.props",
+      "PackagePath": "buildTransitive\\fShop.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.fShop.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

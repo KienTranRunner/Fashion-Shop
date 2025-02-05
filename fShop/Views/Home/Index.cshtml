@@ -1,0 +1,261 @@
+﻿@{
+    ViewData["Title"] = "Trang chủ";
+}
+
+
+<!-- Start Slider -->
+<div id="slides-shop" class="cover-slides">
+    <ul class="slides-container">
+        <li class="text-center">
+            <img src="~/assets/images/cr1.jpg" alt="">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <h1 class="m-b-20"><strong>Chào mừng đến <br> Shop KienRunner</strong></h1>
+                        <p class="m-b-40">Một trang web được tạo ra trong qua trình làm đồ án <br> Không phải là trang web thật sự.</p>
+                        <p><a class="btn hvr-hover" href="#">Mua mới</a></p>
+                    </div>
+                </div>
+            </div>
+        </li>
+        <li class="text-center">
+            <img src="~/assets/images/cr2.jpg" alt="">
+            <div class="container">
+                <div class="row">
+                     <div class="col-md-12">
+                        <h1 class="m-b-20"><strong>Chào mừng đến <br> Shop KienRunner</strong></h1>
+                        <p class="m-b-40">Một trang web được tạo ra trong qua trình làm đồ án <br> Không phải là trang web thật sự.</p>
+                        <p><a class="btn hvr-hover" href="#">Mua mới</a></p>
+                    </div>
+                </div>
+            </div>
+        </li>
+        <li class="text-center">
+            <img src="~/assets/images/cr3.jpg" alt="">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="col-md-12">
+                        <h1 class="m-b-20"><strong>Chào mừng đến <br> Shop KienRunner</strong></h1>
+                        <p class="m-b-40">Một trang web được tạo ra trong qua trình làm đồ án <br> Không phải là trang web thật sự.</p>
+                        <p><a class="btn hvr-hover" href="#">Mua mới</a></p>
+                    </div>
+                </div>
+            </div>
+        </li>
+    </ul>
+    <div class="slides-navigation">
+        <a href="#" class="next"><i class="fa fa-angle-right" aria-hidden="true"></i></a>
+        <a href="#" class="prev"><i class="fa fa-angle-left" aria-hidden="true"></i></a>
+    </div>
+</div>
+<!-- End Slider -->
+
+<!-- Start Categories  -->
+<div class="categories-shop">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+                <div class="shop-cat-box">
+                    <img class="img-fluid" src="~/assets/images/home1.jpg" alt="" />
+                    <a class="btn hvr-hover" href="#">Thời trang nam</a>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+                <div class="shop-cat-box">
+                    <img class="img-fluid" src="~/assets/images/home2.png" alt="" />
+                    <a class="btn hvr-hover" href="#">Thời trang phụ nữ</a>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+                <div class="shop-cat-box">
+                    <img class="img-fluid" src="~/assets/images/home3.jpg" alt="" />
+                    <a class="btn hvr-hover" href="#">Thời trang trẻ em</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container-fluid mt-5">
+    <!-- Main Row -->
+    <div class="row mb-4">
+        <!-- Col-5: Image -->
+        <div class="col-lg-4 d-flex align-items-center">
+            <img src="https://channel.mediacdn.vn/428462621602512896/2023/5/30/photo-1-16854157800631082142754.png"
+                alt="Main Product" class="img-fluid rounded">
+        </div>
+        <!-- Col-7: Content & Grid -->
+        <div class="col-lg-8">
+            <!-- Content Block -->
+            <div class="mb-4">
+               <h1 class="product-title">THỜI TRANG PHỤ NỮ VIỆT</h1>
+<p class="product-description">
+    <strong>𝐕𝐞̉ 𝐝𝐞̣𝐩 𝐭𝐡𝐨̂𝐧𝐠 𝐦𝐢𝐧𝐡 𝐯𝐚̀ 𝐡𝐢𝐞̣̂𝐧 𝐝𝐚̣𝐢</strong>.. Thời trang nữ Việt Nam ngày nay là sự kết hợp giữa 
+    nét đẹp truyền thống và hơi thở hiện đại. Những thiết kế tinh tế, tôn dáng và phù hợp với phong cách sống năng động, 
+    giúp chị em tỏa sáng trong mọi hoàn cảnh. Đó là sự hài hòa giữa vẻ đẹp nữ tính và sự thoải mái, dễ dàng phối đồ 
+    cho công sở, dạo phố hay dự tiệc.
+</p>
+
+            </div>
+            <!-- Product Grid -->
+            <div class="row g-4">
+                <!-- Product 1 -->
+                @foreach (var product in ViewBag.WomenProducts)
+                {
+                  <div class="col-lg-4 col-md-6 special-grid top-featured">
+    <div class="products-single fix" style="height: 500px; display: flex; flex-direction: column; justify-content: space-between;">
+        <div class="box-img-hover">
+            <div class="type-lb"></div>
+            <img src="@product.ImageUrl.Replace("~", "")"
+                class="img-fluid" alt="Image"
+                style="width: 100%; height: 550px; object-fit: cover;">
+            <div class="mask-icon">
+                <ul>
+                    <li><a href="@Url.Action("Detail", "Product", new { id = product.ProductId })" data-toggle="tooltip" data-placement="right" title="Xem chi tiết"><i
+                                class="fas fa-eye"></i></a></li>
+                    
+                </ul>
+            </div>
+        </div>
+        <div class="why-text" >
+            <h4>@product.NameProduct</h4>
+                                    @String.Format("{0:N0} VND", product.Price)
+
+        </div>
+    </div>
+</div>
+
+                }
+
+
+              
+               
+
+
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="container-fluid mt-5">
+    <!-- Section Header -->
+    <div class="d-flex justify-content-between align-items-center mb-4">
+        <h2 class="section-title">Sản phẩm mới</h2>
+        <a href="#" class="view-more">Xem thêm</a>
+    </div>
+    <!-- Product Grid -->
+    <div class="row g-4">
+        <!-- Product Loop -->
+        @foreach (var product in ViewBag.NewProduct)
+        {
+            <div class="col-lg-3 col-md-6 special-grid top-featured" style="width: 312px; height: 550px;">
+                <div class="products-single fix">
+                    <div class="box-img-hover">
+                        <div class="type-lb">
+                        </div>
+                        <img src="@product.ImageUrl.Replace("~", "")"
+                            class="img-fluid" alt="Image" style="width: 312px; height: 450px;">
+                        <div class="mask-icon">
+                            <ul>
+                                <li><a href="@Url.Action("Detail", "Product", new { id = product.ProductId })" data-toggle="tooltip" data-placement="right" title="Xem chi tiết"><i
+                                            class="fas fa-eye"></i></a></li>
+                                
+                            </ul>
+                       </div>
+                    </div>
+                    <div class="why-text" >
+            <h4>@product.NameProduct</h4>
+                                    @String.Format("{0:N0} VND", product.Price)
+
+        </div>
+                </div>
+            </div>
+        }
+
+
+
+
+        <div class="container-fluid mt-5">
+            <!-- Main Row -->
+            <div class="row mb-4">
+                <div class="col-lg-8">
+                    <!-- Content Block -->
+                    <div class="mb-4">
+                      <h1 class="product-title">THỜI TRANG NAM VIỆT</h1>
+<p class="product-description">
+    <strong>𝐒𝐚𝐧𝐠 𝐭𝐫𝐨̣𝐧𝐠 𝐯𝐚̀ 𝐧𝐚̆𝐧𝐠 đ𝐨̣̂𝐧𝐠</strong>.. Thời trang nam Việt mang phong cách tối giản nhưng vẫn lịch lãm, 
+    chú trọng đến chất liệu và đường nét thiết kế. Từ áo sơ mi chỉn chu cho công sở, áo phông trẻ trung dạo phố, 
+    đến vest lịch thiệp cho các dịp quan trọng, các sản phẩm thời trang nam luôn đáp ứng nhu cầu của phái mạnh, 
+    thể hiện sự tự tin và phong thái chuyên nghiệp.
+</p>
+
+                    </div>
+                    <!-- Product Grid -->
+                    <div class="row g-4">
+                        <!-- Product 1 -->
+
+                       @foreach (var product in ViewBag.MenProducts)
+                {
+                     <div class="col-lg-4 col-md-6 special-grid top-featured">
+    <div class="products-single fix" style="height: 500px; display: flex; flex-direction: column; justify-content: space-between;">
+        <div class="box-img-hover">
+            <div class="type-lb"></div>
+            <img src="@product.ImageUrl.Replace("~", "")"
+                class="img-fluid" alt="Image"
+                style="width: 100%; height: 550px; object-fit: cover;">
+            <div class="mask-icon">
+                <ul>
+                    <li><a href="@Url.Action("Detail", "Product", new { id = product.ProductId })" data-toggle="tooltip" data-placement="right" title="Xem chi tiết"><i
+                                class="fas fa-eye"></i></a></li>
+                   
+                </ul>
+
+
+            </div>
+        </div>
+       <div class="why-text" >
+            <h4>@product.NameProduct</h4>
+                                    @String.Format("{0:N0} VND", product.Price)
+
+        </div>
+    </div>
+</div>
+                }
+                     
+
+
+                    </div>
+                </div>
+                <div class="col-lg-4 d-flex align-items-center">
+                    <img src="https://gocphukien.com/wp-content/uploads/2023/03/xu-huong-thoi-trang-mua-he-cho-nam.jpg"
+                        alt="Main Product" class="img-fluid rounded">
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+  <div class="container-fluid">
+    <div class="row">
+        <div class="col-md-6">
+            <img src="~/assets/images/homead1.webp" 
+                 alt="Main Product" 
+                 class="img-fluid rounded" style="height: 630px;">
+        </div>
+        <div class="col-md-6 d-flex flex-column">
+            <div class="mb-3">
+                <img src="~/assets/images/homead2.webp" 
+                     alt="Secondary Product 1" 
+                     class="img-fluid rounded">
+            </div>
+            <div>
+                <img src="~/assets/images/homead3.webp" 
+                     alt="Secondary Product 2" 
+                     class="img-fluid rounded">
+            </div>
+        </div>
+    </div>
+</div>
+

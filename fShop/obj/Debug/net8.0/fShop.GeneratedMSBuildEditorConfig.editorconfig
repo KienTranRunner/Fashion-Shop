@@ -1,0 +1,151 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = fShop
+build_property.RootNamespace = fShop
+build_property.ProjectDir = /Users/kien283/Fashion-Shop/fShop/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/kien283/Fashion-Shop/fShop
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/kien283/Fashion-Shop/fShop/Areas/Admin/Views/Customer/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ3VzdG9tZXIvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kien283/Fashion-Shop/fShop/Areas/Admin/Views/Dashboard/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvRGFzaGJvYXJkL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kien283/Fashion-Shop/fShop/Areas/Admin/Views/OrderManagement/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvT3JkZXJNYW5hZ2VtZW50L0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kien283/Fashion-Shop/fShop/Areas/Admin/Views/OrderManagement/_DetailOrder.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvT3JkZXJNYW5hZ2VtZW50L19EZXRhaWxPcmRlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kien283/Fashion-Shop/fShop/Areas/Admin/Views/ProductCategory/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdENhdGVnb3J5L0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kien283/Fashion-Shop/fShop/Areas/Admin/Views/ProductCategory/_CreateModal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdENhdGVnb3J5L19DcmVhdGVNb2RhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kien283/Fashion-Shop/fShop/Areas/Admin/Views/ProductCategory/_UpdateModal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdENhdGVnb3J5L19VcGRhdGVNb2RhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kien283/Fashion-Shop/fShop/Areas/Admin/Views/ProductManagement/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdE1hbmFnZW1lbnQvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kien283/Fashion-Shop/fShop/Areas/Admin/Views/ProductManagement/_CreateModal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdE1hbmFnZW1lbnQvX0NyZWF0ZU1vZGFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kien283/Fashion-Shop/fShop/Areas/Admin/Views/ProductManagement/_UpdateModal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdE1hbmFnZW1lbnQvX1VwZGF0ZU1vZGFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kien283/Fashion-Shop/fShop/Areas/Admin/Views/ProductStyle/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdFN0eWxlL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kien283/Fashion-Shop/fShop/Areas/Admin/Views/ProductStyle/_CreateModal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdFN0eWxlL19DcmVhdGVNb2RhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kien283/Fashion-Shop/fShop/Areas/Admin/Views/ProductStyle/_UpdateModal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdFN0eWxlL19VcGRhdGVNb2RhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kien283/Fashion-Shop/fShop/Areas/Admin/Views/ProductType/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdFR5cGUvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kien283/Fashion-Shop/fShop/Areas/Admin/Views/ProductType/_CreateModal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdFR5cGUvX0NyZWF0ZU1vZGFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kien283/Fashion-Shop/fShop/Areas/Admin/Views/ProductType/_UpdateModal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdFR5cGUvX1VwZGF0ZU1vZGFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kien283/Fashion-Shop/fShop/Areas/Admin/Views/Shared/AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL0FkbWluTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kien283/Fashion-Shop/fShop/Views/AboutUs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWJvdXRVcy9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kien283/Fashion-Shop/fShop/Views/Cart/Checkout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2FydC9DaGVja291dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kien283/Fashion-Shop/fShop/Views/Cart/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2FydC9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kien283/Fashion-Shop/fShop/Views/Cart/OrderConfirmation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2FydC9PcmRlckNvbmZpcm1hdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kien283/Fashion-Shop/fShop/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kien283/Fashion-Shop/fShop/Views/Product/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdC9EZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kien283/Fashion-Shop/fShop/Views/Product/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdC9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kien283/Fashion-Shop/fShop/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kien283/Fashion-Shop/fShop/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kien283/Fashion-Shop/fShop/Views/SignIn/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2lnbkluL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kien283/Fashion-Shop/fShop/Views/SignUp/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2lnblVwL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kien283/Fashion-Shop/fShop/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kien283/Fashion-Shop/fShop/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/kien283/Fashion-Shop/fShop/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-mtx131gdfr

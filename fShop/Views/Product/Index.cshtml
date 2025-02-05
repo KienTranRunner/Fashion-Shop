@@ -1,0 +1,210 @@
+@{
+    ViewData["Title"] = "Danh sách sản phẩm";
+}
+
+<!-- Shop Start -->
+<div class="container-fluid pt-5">
+    <div class="row px-xl-5">
+        <!-- Shop Sidebar Start -->
+        <div class="col-lg-3 col-md-12">
+            <!-- Price Start -->
+            <div class="border-bottom mb-4 pb-4">
+                <h5 class="font-weight-semi-bold mb-4">Giá</h5>
+                <form id="priceFilterForm" method="get" action="">
+                    <div class="d-flex align-items-center justify-content-between">
+                        <input type="range" id="priceRange" name="priceRange" min="0" max="1000000" step="10000"
+                            value="1000000" oninput="updatePriceDisplay(this.value)" style="width: 200px;">
+                        <span id="priceRangeDisplay">1,000,000 VND</span>
+                    </div>
+                    <button type="submit" class="btn btn-primary btn-sm mt-3">Tìm kiếm</button>
+                </form>
+            </div>
+            <!-- Price End -->
+
+            <!-- Color Start -->
+            <div class="border-bottom mb-4 pb-4">
+                <form>
+                   <form method="get">
+                <div class="filter-section">
+                    <h5>Lọc theo màu sắc</h5>
+                    @foreach (var color in ViewBag.Colors as List<Color>)
+                            {
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" id="color-@color.ColorId" name="colors"
+                                    value="@color.NameColor" @(ViewBag.SelectedColors != null &&
+                            ((string[])ViewBag.SelectedColors).Contains(color.NameColor) ? "checked" : "") />
+                                <label class="form-check-label" for="color-@color.ColorId">@color.NameColor</label>
+                            </div>
+                            }
+                </div>
+                <button type="submit" class="btn btn-primary">Tìm kiếm</button>
+            </form>
+                </form>
+            </div>
+            <!-- Color End -->
+
+            <!-- Size Start -->
+            <div class="mb-5">
+                <h5 class="font-weight-semi-bold mb-4">Size</h5>
+                <form id="filter-form" method="get" action="/Product/Index">
+                    <div class="custom-control custom-checkbox d-flex align-items-center justify-content-between mb-3">
+                        <input type="checkbox" class="custom-control-input" name="sizes" value="XS" id="size-xs"
+                        @(ViewBag.SelectedSizes != null && ((string[])ViewBag.SelectedSizes).Contains("XS") ?
+                            "checked" : "")>
+                        <label class="custom-control-label" for="size-xs">XS</label>
+                    </div>
+                    <div class="custom-control custom-checkbox d-flex align-items-center justify-content-between mb-3">
+                        <input type="checkbox" class="custom-control-input" name="sizes" value="S" id="size-s"
+                        @(ViewBag.SelectedSizes != null && ((string[])ViewBag.SelectedSizes).Contains("S") ?
+                                "checked" : "")>
+                        <label class="custom-control-label" for="size-s">S</label>
+                    </div>
+                    <div class="custom-control custom-checkbox d-flex align-items-center justify-content-between mb-3">
+                        <input type="checkbox" class="custom-control-input" name="sizes" value="M" id="size-m"
+                        @(ViewBag.SelectedSizes != null && ((string[])ViewBag.SelectedSizes).Contains("M") ?
+                                "checked" : "")>
+                        <label class="custom-control-label" for="size-m">M</label>
+                    </div>
+                    <div class="custom-control custom-checkbox d-flex align-items-center justify-content-between mb-3">
+                        <input type="checkbox" class="custom-control-input" name="sizes" value="L" id="size-l"
+                        @(ViewBag.SelectedSizes != null && ((string[])ViewBag.SelectedSizes).Contains("L") ?
+                                "checked" : "")>
+                        <label class="custom-control-label" for="size-l">L</label>
+                    </div>
+                    <div class="custom-control custom-checkbox d-flex align-items-center justify-content-between">
+                        <input type="checkbox" class="custom-control-input" name="sizes" value="XL" id="size-xl"
+                        @(ViewBag.SelectedSizes != null && ((string[])ViewBag.SelectedSizes).Contains("XL") ?
+                                "checked" : "")>
+                        <label class="custom-control-label" for="size-xl">XL</label>
+                    </div>
+                    <button type="submit" class="btn btn-primary mt-3">Tìm kiếm</button>
+                </form>
+            </div>
+
+
+            <!-- Size End -->
+        </div>
+        <!-- Shop Sidebar End -->
+
+        <script>
+            function updatePriceDisplay(value) {
+                const formatter = new Intl.NumberFormat('vi-VN', { style: 'currency', currency: 'VND' });
+                document.getElementById('priceRangeDisplay').innerText = formatter.format(value);
+            }
+        </script>
+        <!-- Shop Product Start -->
+        @model IEnumerable<fShop.Models.Product>
+
+        <div class="col-lg-9 col-md-12">
+            <div class="row pb-3">
+                <div class="col-12 pb-1">
+                    <div class="d-flex align-items-center justify-content-between mb-4">
+                        <form method="get" action="">
+    <div class="input-group">
+        <input type="text" name="search" class="form-control" placeholder="Tìm kiếm tên sản phẩm" value="@ViewBag.SearchKeyword">
+        <div class="input-group-append">
+            <button type="submit" class="btn bg-transparent text-primary">
+                <i class="fa fa-search"></i>
+            </button>
+        </div>
+    </div>
+</form>
+
+                    </div>
+                </div>
+
+                @if (!Model.Any())
+                {
+                        <div class="col-12 text-center">
+                            <h5>Không có sản phẩm nào cần duyệt.</h5>
+                        </div>
+                }
+                else
+                {
+                    @foreach (var product in Model)
+                    {
+                                <div class="col-lg-4 col-md-6 col-sm-12 pb-1">
+                                    <div class="card product-item border-0 mb-4">
+                                        <div
+                                            class="card-header product-img position-relative overflow-hidden bg-transparent border p-0">
+                                            <img class="img-fluid w-100" src="@product.ImageUrl.Replace("~", "")"
+                                                alt="@product.NameProduct" style="height: 410px;">
+                                        </div>
+
+                                        <div class="card-body border-left border-right text-center p-0 pt-4 pb-3">
+                                            <h6 class="text-truncate mb-3">@product.NameProduct</h6>
+                                            <div class="d-flex justify-content-center">
+                                                <h6>@product.Price.ToString("C")</h6>
+                                            </div>
+                                        </div>
+                                        <div class="card-footer d-flex justify-content-between bg-light border">
+                                            <a href="@Url.Action("Detail", "Product", new { id = product.ProductId })"
+                                                class="btn btn-sm text-dark p-0">
+                                                <i class="fas fa-eye text-primary mr-1"></i>Xem chi tiết
+                                            </a>
+                                           
+                                        </div>
+                                    </div>
+                                </div>
+                    }
+                }
+            </div>
+            <div class="col-12 pb-1">
+                <nav aria-label="Page navigation">
+                    <ul class="pagination justify-content-center mb-3">
+                        @if (ViewBag.CurrentPage > 1)
+                        {
+                                <li class="page-item">
+                                    <a class="page-link" href="?page=@(ViewBag.CurrentPage - 1)" aria-label="Previous">
+                                        <span aria-hidden="true">&laquo;</span>
+                                    </a>
+                                </li>
+                        }
+                        else
+                        {
+                                <li class="page-item disabled">
+                                    <span class="page-link">&laquo;</span>
+                                </li>
+                        }
+
+                        @for (int i = 1; i <= ViewBag.TotalPages; i++)
+                        {
+                            if (i == ViewBag.CurrentPage)
+                            {
+                                        <li class="page-item active">
+                                            <span class="page-link">@i</span>
+                                        </li>
+                            }
+                            else
+                            {
+                                        <li class="page-item">
+                                            <a class="page-link" href="?page=@i">@i</a>
+                                        </li>
+                            }
+                        }
+
+                        @if (ViewBag.CurrentPage < ViewBag.TotalPages)
+                        {
+                                <li class="page-item">
+                                    <a class="page-link" href="?page=@(ViewBag.CurrentPage + 1)" aria-label="Next">
+                                        <span aria-hidden="true">&raquo;</span>
+                                    </a>
+                                </li>
+                        }
+                        else
+                        {
+                                <li class="page-item disabled">
+                                    <span class="page-link">&raquo;</span>
+                                </li>
+                        }
+                    </ul>
+                </nav>
+            </div>
+
+        </div>
+
+
+    </div>
+</div>
+</div>
+</div>

@@ -1,0 +1,113 @@
+@{
+    ViewData["Title"] = "Trang điều khiển";
+    Layout = "~/Areas/Admin/Views/Shared/AdminLayout.cshtml";
+}
+<link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css" />
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.bundle.min.js"></script>
+<div class="table-container">
+    <button type="button" class="btn btn-inverse-success btn-fw" data-toggle="modal" data-target="#createModal"
+        style="margin: 15px; border: solid;">Thêm danh
+        mục</button> @await Html.PartialAsync("_CreateModal")
+
+    <table id="productTypeTable" class="table table-bordered display ">
+
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Tên Danh mục sản phẩm</th>
+                <th>Hành động</th>
+
+            </tr>
+        </thead>
+        <tbody>
+        </tbody>
+    </table>
+</div>
+
+
+@section Scripts {
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $.ajax({
+                url: '/Admin/ProductType/GetAll',
+                type: 'GET',
+                success: function (data) {
+                    let rows = '';
+                    data.forEach(function (item) {
+                        rows += `<tr>
+                                                    <td>${item.productTypeID}</td>
+                                                    <td>${item.name}</td>
+                                                    <td>
+        <button type="button" class="btn btn-warning btn-edit" data-id="${item.productTypeID}">Sửa</button>
+        <button type="button" class="btn btn-danger" data-id="${item.productTypeID}" onclick="confirmDelete(${item.productTypeID})">Xóa</button>
+                                                    </td>
+
+                                                </tr>`;
+                    });
+
+                    $('#productTypeTable tbody').html(rows);
+
+
+                    $('#productTypeTable').DataTable({
+                        paging: true,
+                        searching: true,
+                        ordering: true,
+                        info: true,
+                        lengthChange: true,
+                        pageLength: 10,
+                        language: {
+                            lengthMenu: "Hiển thị _MENU_ dòng",
+                            zeroRecords: "Không tìm thấy dữ liệu phù hợp",
+                            info: "Hiển thị _START_ đến _END_ của _TOTAL_ dòng",
+                            infoEmpty: "Không có dữ liệu",
+                            search: "Tìm kiếm:",
+                            paginate: {
+                                first: "Đầu",
+                                last: "Cuối",
+                                next: "Sau",
+                                previous: "Trước"
+                            }
+                        }
+                    });
+                },
+                error: function (err) {
+                    console.error('Lỗi khi lấy dữ liệu:', err);
+                }
+            });
+        });
+    </script>
+}
+
+
+
+
+
+    @await Html.PartialAsync("_UpdateModal")
+
+<script>
+    function confirmDelete(id) {
+        if (confirm('Bạn có chắc chắn muốn danh mục này?')) {
+            $.ajax({
+                url: 'ProductType/Delete/' + id,
+                type: 'POST',
+                data: {
+                    __RequestVerificationToken: $('input[name="__RequestVerificationToken"]').val()
+                },
+                success: function (response) {
+                    if (response.success) {
+                        alert(response.message);
+                        location.reload();
+                    } else {
+                        alert(response.message);
+                    }
+                },
+                error: function () {
+                    alert('Đã xảy ra lỗi không xác định.');
+                }
+            });
+        }
+    }
+</script>

@@ -1,0 +1,114 @@
+<div class="modal fade" id="orderDetailModal" tabindex="-1" aria-labelledby="orderDetailModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="orderDetailModalLabel">Chi tiết đơn hàng</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <h5>Thông tin khách hàng</h5>
+                <p><strong>Tên:</strong> <span id="customerName"></span></p>
+                <p><strong>Email:</strong> <span id="customerEmail"></span></p>
+                <p><strong>Số điện thoại:</strong> <span id="customerPhone"></span></p>
+                <p><strong>Địa chỉ:</strong> <span id="customerAddress"></span></p>
+
+                <h5>Thông tin đơn hàng</h5>
+                <p><strong>Mã đơn hàng:</strong> <span id="orderId"></span></p>
+                <p><strong>Ngày đặt hàng:</strong> <span id="orderDate"></span></p>
+                <p><strong>Trạng thái:</strong>
+                    <select id="orderStatus" class="form-control">
+                        <option value="Pending">Chờ xử lý</option>
+                        <option value="Completed">Hoàn thành</option>
+                        <option value="Cancelled">Hủy</option>
+                    </select>
+                </p>
+
+                <button id="updateOrderStatus" class="btn btn-primary">Cập nhật trạng thái</button>
+
+
+                <h5>Sản phẩm trong đơn hàng</h5>
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>Tên sản phẩm</th>
+                            <th>Giá</th>
+                            <th>Số lượng</th>
+                            <th>Tổng</th>
+                        </tr>
+                    </thead>
+                    <tbody id="orderProducts">
+                    </tbody>
+                </table>
+
+                <p><strong>Tổng tiền:</strong> <span id="totalAmount"></span></p>
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+    $(document).on("click", ".btn-detail", function () {
+    let orderId = $(this).data("id");
+
+    $.ajax({
+        url: `/Admin/OrderManagement/Detail/${orderId}`,
+        type: 'GET',
+        success: function (data) {
+            console.log("Dữ liệu đơn hàng:", data);
+            
+            // Hiển thị thông tin khách hàng
+            $("#customerName").text(data.customer.fullName);
+            $("#customerEmail").text(data.customer.email);
+            $("#customerPhone").text(data.customer.phoneNumber);
+            $("#customerAddress").text(data.customer.address);
+
+            $("#orderId").text(data.orderId);
+            $("#orderDate").text(data.orderDate);
+            $("#orderStatus").val(data.status); 
+
+            // Hiển thị danh sách sản phẩm
+            let productRows = "";
+            let totalAmount = 0;
+            data.products.forEach(item => {
+                totalAmount += item.total;
+                productRows += `<tr>
+                    <td>${item.productName}</td>
+                    <td>${item.price.toLocaleString()} VNĐ</td>
+                    <td>${item.quantity}</td>
+                    <td>${item.total.toLocaleString()} VNĐ</td>
+                </tr>`;
+            });
+            $("#orderProducts").html(productRows);
+            $("#totalAmount").text(totalAmount.toLocaleString() + " VNĐ");
+
+            // Mở modal
+            $("#orderDetailModal").modal("show");
+        },
+        error: function (err) {
+            console.error('Lỗi khi lấy chi tiết đơn hàng:', err);
+        }
+    });
+});
+$(document).on("click", "#updateOrderStatus", function () {
+    let orderId = $("#orderId").text();
+    let newStatus = $("#orderStatus").val();
+
+    $.ajax({
+        url: `/Admin/OrderManagement/UpdateStatus`,
+        type: "POST",
+        contentType: "application/json",
+        data: JSON.stringify({ orderId: orderId, status: newStatus }),
+        success: function (response) {
+            alert("Cập nhật trạng thái thành công!");
+            $("#orderDetailModal").modal("hide");
+            location.reload(); 
+        },
+        error: function (err) {
+            console.error("Lỗi khi cập nhật trạng thái:", err);
+            alert("Cập nhật trạng thái thất bại!");
+        }
+    });
+});
+
+</script>

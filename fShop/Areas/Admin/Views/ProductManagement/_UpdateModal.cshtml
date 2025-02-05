@@ -1,0 +1,202 @@
+@model fShop.Models.ViewModels.ProductEditViewModel
+
+<div class="modal fade" id="editModal" tabindex="-1" aria-labelledby="editModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="editModalLabel">Sửa thông tin sản phẩm</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <form id="editForm" method="post" enctype="multipart/form-data">
+                    @Html.AntiForgeryToken()
+                    <input type="hidden" id="editProductId" name="ProductId" value="@Model?.ProductId" />
+
+                    <div class="mb-3">
+                        <label for="editNameProduct" class="form-label">Tên sản phẩm</label>
+                        <input type="text" class="form-control" id="editNameProduct" name="NameProduct" value="@Model?.NameProduct" required />
+                    </div>
+
+                    <div class="mb-3">
+                        <label for="editDescriptionProduct" class="form-label">Mô tả</label>
+                        <textarea class="form-control" id="editDescriptionProduct" name="DescriptionProduct" required>@Model?.DescriptionProduct</textarea>
+                    </div>
+
+                    <div class="mb-3">
+                        <label for="editCategoryId" class="form-label">Danh mục</label>
+                        <select class="form-control" id="editCategoryId" name="CategoryId" required>
+                            @foreach (var category in ViewBag.ProductCategory)
+                            {
+                                <option value="@category.CategoryId" @(Model?.CategoryId == category.CategoryId ? "selected" : "")>@category.NameProductCategory</option>
+                            }
+                        </select>
+                    </div>
+
+                    <div class="mb-3">
+                        <label for="editStyleId" class="form-label">Phong cách</label>
+                        <select class="form-control" id="editStyleId" name="StyleId" required>
+                            @foreach (var style in ViewBag.Style)
+                            {
+                                <option value="@style.StyleId" @(Model?.StyleId == style.StyleId ? "selected" : "")>@style.NameStyle</option>
+                            }
+                        </select>
+                    </div>
+
+                    <div class="mb-3">
+                        <label for="editAudienceId" class="form-label">Đối tượng</label>
+                        <select class="form-control" id="editAudienceId" name="AudienceId" required>
+                            @foreach (var audience in ViewBag.TargetAudience)
+                            {
+                                <option value="@audience.AudienceId" @(Model?.AudienceId == audience.AudienceId ? "selected" : "")>@audience.NameTargetAudience</option>
+                            }
+                        </select>
+                    </div>
+
+                    <div class="mb-3">
+                        <label for="editMaterialId" class="form-label">Chất liệu</label>
+                        <select class="form-control" id="editMaterialId" name="MaterialId" required>
+                            @foreach (var material in ViewBag.Materials)
+                            {
+                                <option value="@material.MaterialId" @(Model?.MaterialId == material.MaterialId ? "selected" : "")>@material.NameMaterial</option>
+                            }
+                        </select>
+                    </div>
+
+                    <div class="mb-3">
+                        <label for="editPrice" class="form-label">Giá</label>
+                        <input type="number" class="form-control" id="editPrice" name="Price" value="@Model?.Price" required />
+                    </div>
+
+                  
+
+                    <div class="mb-3">
+                        <label for="editSizes" class="form-label">Kích thước</label>
+                        <div id="editSizes">
+                            @foreach (var size in ViewBag.Sizes)
+                            {
+                                <div class="form-check">
+                                    <input class="form-check-input" style="margin-left: 0;" type="checkbox" id="size_@size.SizeId" name="Sizes" value="@size.SizeId" @(Model?.Sizes?.Contains(size.SizeId) == true ? "checked" : "") />
+                                    <label class="form-check-label" for="size_@size.SizeId">@size.NameSize</label>
+                                </div>
+                            }
+                        </div>
+                    </div>
+
+                    <div class="mb-3">
+                        <label for="editColors" class="form-label">Màu sắc</label>
+                        <div id="editColors">
+                            @foreach (var color in ViewBag.Colors)
+                            {
+                                <div class="form-check">
+                                    <input class="form-check-input" style="margin-left: 0;" type="checkbox" id="color_@color.ColorId" name="Colors" value="@color.ColorId" @(Model?.Colors?.Contains(color.ColorId) == true ? "checked" : "") />
+                                    <label class="form-check-label" for="color_@color.ColorId">@color.NameColor</label>
+                                </div>
+                            }
+                        </div>
+                    </div>
+
+                    <div class="mb-3">
+                        <label for="editSeasons" class="form-label">Mùa</label>
+                        <div id="editSeasons">
+                            @foreach (var season in ViewBag.Seasons)
+                            {
+                                <div class="form-check">
+                                    <input class="form-check-input" style="margin-left: 0;"  type="checkbox" id="season_@season.SeasonId" name="Seasons" value="@season.SeasonId" @(Model?.Seasons?.Contains(season.SeasonId) == true ? "checked" : "") />
+                                    <label class="form-check-label" for="season_@season.SeasonId">@season.NameSeason</label>
+                                </div>
+                            }
+                        </div>
+                    </div>
+
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Đóng</button>
+                <button type="button" class="btn btn-primary" id="saveChangesButton">Lưu thay đổi</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    $(document).ready(function () {
+    function openEditModal(productId) {
+        $.ajax({
+            url: '/Admin/Product/GetById/' + productId,
+            type: 'GET',
+            success: function (product) {
+                $('#editProductId').val(product.productId);
+                $('#editNameProduct').val(product.nameProduct);
+                $('#editDescriptionProduct').val(product.descriptionProduct);
+                $('#editCategoryId').val(product.categoryId);
+                $('#editStyleId').val(product.styleId);
+                $('#editAudienceId').val(product.audienceId);
+                $('#editMaterialId').val(product.materialId);
+                $('#editPrice').val(product.price);
+
+                $('#editSizes input[type=checkbox]').each(function () {
+                    var checkbox = $(this);
+                    if (product.selectedSizes.includes(parseInt(checkbox.val()))) {
+                        checkbox.prop('checked', true);
+                    } else {
+                        checkbox.prop('checked', false);
+                    }
+                });
+
+                // Populate colors
+                $('#editColors input[type=checkbox]').each(function () {
+                    var checkbox = $(this);
+                    if (product.selectedColors.includes(parseInt(checkbox.val()))) {
+                        checkbox.prop('checked', true);
+                    } else {
+                        checkbox.prop('checked', false);
+                    }
+                });
+
+                $('#editSeasons input[type=checkbox]').each(function () {
+                    var checkbox = $(this);
+                    if (product.selectedSeasons.includes(parseInt(checkbox.val()))) {
+                        checkbox.prop('checked', true);
+                    } else {
+                        checkbox.prop('checked', false);
+                    }
+                });
+
+                $('#editModal').modal('show');
+            },
+            error: function () {
+                alert('Error retrieving product details.');
+            }
+        });
+    }
+
+    $('#saveChangesButton').click(function () {
+        var formData = new FormData($('#editForm')[0]);
+        $.ajax({
+            url: '/Admin/Product/Update', 
+            type: 'POST',
+            data: formData,
+            processData: false,
+            contentType: false,
+            success: function (response) {
+                if (response.success) {
+                    alert('Cập nhật sản phẩm thành công.');
+                    $('#editModal').modal('hide');
+                    location.reload(); 
+                } else {
+                    alert('Cập nhật sản phẩm thất bại.');
+                }
+            },
+            error: function () {
+                alert('Error updating product.');
+            }
+        });
+    });
+
+    $('#productTypeTable').on('click', '.btn-edit', function () {
+        var productId = $(this).data('id');
+        openEditModal(productId);
+    });
+});
+
+</script>

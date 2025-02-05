@@ -1,0 +1,163 @@
+@{
+    ViewData["Title"] = "Đăng ký";
+}
+
+@model fShop.Models.ViewModels.SignUpViewModel
+
+<div class="signup">
+    <div class="signup__container">
+        <div class="signup__form-wrapper">
+            <div class="signup__form">
+              
+                <h4 class="signup__heading">Đăng ký</h4>
+                <form asp-action="SignUp" method="post" class="signup__form-content">
+                    @Html.AntiForgeryToken()
+                    <div class="signup__form-group">
+                        <label for="Name">Họ và tên</label>
+                        <input asp-for="Name" id="Name" class="signup__form-input" placeholder="Nhập họ và tên" />
+                        <span asp-validation-for="Name" class="text-danger"></span>
+                    </div>
+                    <div class="signup__form-group">
+                        <label for="Email">Email</label>
+                        <input asp-for="Email" id="Email" class="signup__form-input" placeholder="Nhập email" />
+                        <span asp-validation-for="Email" class="text-danger"></span>
+                    </div>
+                    <div class="signup__form-group">
+                        <label for="PhoneNumber">Số điện thoại</label>
+                        <input asp-for="PhoneNumber" id="PhoneNumber" class="signup__form-input" placeholder="Số điện thoại" />
+                        <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+                    </div>
+
+                     <div class="signup__form-group">
+                        <label for="Address">Số điện thoại</label>
+                        <input asp-for="Address" id="Address" class="signup__form-input" placeholder="Địa chỉ" />
+                        <span asp-validation-for="Address" class="text-danger"></span>
+                    </div>
+                   
+                    <div class="signup__form-group">
+                        <label for="Password">Mật khẩu</label>
+                        <input asp-for="Password" id="Password" type="password" class="signup__form-input" placeholder="Mật khẩu" />
+                        <span asp-validation-for="Password" class="text-danger"></span>
+                    </div>
+                    <div class="signup__form-group">
+                        <label for="ConfirmPassword">Xác nhận mật khẩu</label>
+                        <input asp-for="ConfirmPassword" id ="ConfirmPassword" type="password" class="signup__form-input" placeholder="Xác nhận mật khẩu" />
+                        <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+                    </div>
+                    <div class="signup__actions">
+                        <button type="submit" class="signup__btn">Đăng ký</button>
+                    </div>
+                    <div class="signup__footer">
+                        Bạn đã có tài khoản? <a href="/Login" class="signup__link">Đăng nhập</a>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
+
+<style>
+    .signup {
+        background: url('@Url.Content("~/assets/images/Login.jpg")') no-repeat center center fixed;
+        background-size: cover;
+        height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .signup__container {
+        width: 100%;
+        max-width: 400px;
+        background: rgba(255, 255, 255, 0.9);
+        border-radius: 8px;
+        padding: 20px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    }
+
+    .signup__logo {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    .signup__logo-image {
+        max-width: 100%;
+        height: auto;
+    }
+
+    .signup__heading {
+        font-size: 1.5rem;
+        margin-bottom: 10px;
+        text-align: center;
+    }
+
+    .signup__subheading {
+        font-size: 1rem;
+        margin-bottom: 20px;
+        text-align: center;
+        color: #6c757d;
+    }
+
+    .signup__form-content {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .signup__form-group {
+        margin-bottom: 15px;
+    }
+
+    .signup__form-input,
+    .signup__form-select {
+        width: 100%;
+        padding: 10px;
+        border: 1px solid #ced4da;
+        border-radius: 4px;
+        font-size: 1rem;
+    }
+
+    .signup__checkbox {
+        font-size: 0.9rem;
+        color: #6c757d;
+        margin: 15px 0;
+    }
+
+    .signup__actions {
+        text-align: center;
+    }
+
+    .signup__btn {
+        display: inline-block;
+        padding: 10px 20px;
+        background: #007bff;
+        color: #fff;
+        text-decoration: none;
+        border-radius: 4px;
+        font-size: 1rem;
+        font-weight: 500;
+    }
+
+    .signup__btn:hover {
+        background: #0056b3;
+    }
+
+    .signup__footer {
+        margin-top: 20px;
+        text-align: center;
+        font-size: 0.9rem;
+        color: #6c757d;
+    }
+
+    .signup__link {
+        color: #007bff;
+        text-decoration: none;
+    }
+
+    .signup__link:hover {
+        text-decoration: underline;
+    }
+</style>

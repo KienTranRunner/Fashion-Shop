@@ -1,0 +1,35 @@
+@model fShop.Models.Order
+
+<h2>Xác nhận đơn hàng</h2>
+
+<p>Đơn hàng của bạn đã được đặt thành công.</p>
+<p><strong>Mã đơn hàng:</strong> @Model.OrderId</p>
+<p><strong>Ngày đặt hàng:</strong> @Model.OrderDate.ToString("dd/MM/yyyy HH:mm")</p>
+
+<h3>Chi tiết đơn hàng</h3>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Sản phẩm</th>
+            <th>Size</th>
+            <th>Màu</th>
+            <th>Giá</th>
+            <th>Số lượng</th>
+            <th>Tổng</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.OrderDetails)
+        {
+            <tr>
+                <td>@item.Product.NameProduct</td>
+                <td>@item.SizeName</td>
+                <td>@item.ColorName</td>
+                <td>@item.Price.ToString("#,##0") VNĐ</td>
+                <td>@item.Quantity</td>
+<td>@((item.Quantity * item.Price).ToString("#,##0")) VNĐ</td>            </tr>
+        }
+    </tbody>
+</table>
+
+<p><strong>Tổng cộng: </strong> @Model.OrderDetails.Sum(od => od.Quantity * od.Price).ToString("#,##0") VNĐ</p>

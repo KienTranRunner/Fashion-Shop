@@ -1,0 +1,112 @@
+@model fShop.Models.Product
+
+<div class="container-fluid py-5">
+    <div class="row px-xl-5">
+        <div class="col-lg-5 pb-5">
+            <div id="product-carousel" class="carousel slide" data-ride="carousel">
+                <div class="carousel-inner border">
+                    <div class="carousel-item active">
+                        <img class="w-100 h-100" src="@Model.ImageUrl.Replace("~", "")" alt="@Model.NameProduct">
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-lg-7 pb-5">
+            <h3 class="font-weight-semi-bold">@Model.NameProduct</h3>
+            <h3 class="font-weight-semi-bold mb-4">@String.Format("{0:N0} VND", Model.Price)</h3>
+            <p class="mb-4">@Model.DescriptionProduct</p>
+
+            <form asp-action="AddToCart" asp-controller="Cart" method="post">
+                <input type="hidden" name="id" value="@Model.ProductId" />
+                <input type="hidden" name="name" value="@Model.NameProduct" />
+                <input type="hidden" name="imageUrl" value="@Model.ImageUrl" />
+                <input type="hidden" name="price" value="@Model.Price" />
+                <input type="hidden" id="selectedSizeId" name="sizeId" value="" />
+                <input type="hidden" id="selectedColorId" name="colorId" value="" />
+
+                <div class="d-flex mb-3">
+                    <p class="text-dark font-weight-medium mb-0 mr-3">Sizes:</p>
+                    @foreach (var size in ViewBag.Sizes)
+                    {
+                        <div class="custom-control custom-radio custom-control-inline">
+                            <input type="radio" class="custom-control-input size-option"
+                                   id="size-@size.SizeId" name="size" value="@size.SizeId">
+                            <label class="custom-control-label" for="size-@size.SizeId">@size.NameSize</label>
+                        </div>
+                    }
+                </div>
+
+                <div class="d-flex mb-4">
+                    <p class="text-dark font-weight-medium mb-0 mr-3">Colors:</p>
+                    @foreach (var color in ViewBag.Colors)
+                    {
+                        <div class="custom-control custom-radio custom-control-inline">
+                            <input type="radio" class="custom-control-input color-option"
+                                   id="color-@color.ColorId" name="color" value="@color.ColorId">
+                            <label class="custom-control-label" for="color-@color.ColorId">@color.NameColor</label>
+                        </div>
+                    }
+                </div>
+
+                <div class="d-flex align-items-center mb-4 pt-2">
+                    <div class="input-group quantity mr-3" style="width: 130px;">
+                        <div class="input-group-btn">
+                            <button type="button" class="btn btn-primary btn-minus">
+                                <i class="fa fa-minus"></i>
+                            </button>
+                        </div>
+                        <input type="text" class="form-control bg-secondary text-center" id="quantityInput"
+                               name="quantity" value="1">
+                        <div class="input-group-btn">
+                            <button type="button" class="btn btn-primary btn-plus">
+                                <i class="fa fa-plus"></i>
+                            </button>
+                        </div>
+                    </div>
+                    <button type="submit" class="btn btn-primary px-3">
+                        <i class="fa fa-shopping-cart mr-1"></i> Đặt hàng
+                    </button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+    document.querySelectorAll(".size-option").forEach(size => {
+        size.addEventListener("change", function () {
+            document.getElementById("selectedSizeId").value = this.value;
+        });
+    });
+
+    document.querySelectorAll(".color-option").forEach(color => {
+        color.addEventListener("change", function () {
+            document.getElementById("selectedColorId").value = this.value;
+        });
+    });
+
+    const quantityInput = document.getElementById("quantityInput");
+    document.querySelector(".btn-minus").addEventListener("click", function () {
+        let currentValue = parseInt(quantityInput.value);
+        if (currentValue > 1) {
+            quantityInput.value = currentValue - 1;
+        }
+    });
+
+    document.querySelector(".btn-plus").addEventListener("click", function () {
+        let currentValue = parseInt(quantityInput.value);
+        if (currentValue < 99) {
+            quantityInput.value = currentValue + 1;
+        }
+    });
+
+    quantityInput.addEventListener("input", function () {
+        this.value = this.value.replace(/[^0-9]/g, '');
+        if (this.value === "" || parseInt(this.value) <= 0) {
+            this.value = "1";
+        }
+    });
+});
+</script>
